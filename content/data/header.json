@@ -40,7 +40,7 @@
         },
         {
             "label": "Contato",
-            "altText": "Dropdown",
+            "altText": "Contato",
             "links": [
                 {
                     "label": "Dropdown item",
