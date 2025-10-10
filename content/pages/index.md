@@ -98,7 +98,7 @@ sections:
       - url: /images/foto colecao 3p.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/foto colecao 4p.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
