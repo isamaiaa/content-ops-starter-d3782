@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Sobre nós",
-            "url": "/pricing",
+            "url": "/sobre",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
