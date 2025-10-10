@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "# Vista uma obra de arte.\n\n# Cada kimono é uma peça única, criada com\n\n# exclusividade e sofisticação para mulheres\n\n# que vivem com autenticidade e elegância.\n\n",
+    "text": "## Vista uma obra de arte.\n\n## Cada kimono é uma peça única, criada com\n\n## exclusividade e sofisticação para mulheres\n\n## que vivem com autenticidade e elegância.\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
