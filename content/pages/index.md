@@ -89,7 +89,7 @@ sections:
       - url: /images/foto colecao 6p.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/foto colecao p.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
