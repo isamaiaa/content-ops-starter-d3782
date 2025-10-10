@@ -55,8 +55,8 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
+          vestir sua autenticidade com elegância e exclusividade."
         tagline: ''
         subtitle: 'Isadora Maia, Fundadora'
         text: >-
