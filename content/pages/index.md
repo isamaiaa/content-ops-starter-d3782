@@ -76,7 +76,7 @@ sections:
             borderRadius: x-small
             flexDirection: row
             justifyContent: center
-            borderColor: border-light
+            borderColor: border-primary
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
