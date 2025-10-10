@@ -201,7 +201,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: O mais vendido na Europa
     images:
       - url: /images/foto colecao 6p.png
         altText: Empathy logo
