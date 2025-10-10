@@ -101,7 +101,7 @@ sections:
       - url: /images/foto colecao 4p.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/foto colecao 3p.png
+      - url: /images/foto colecao 4p.png
         altText: Contentful logo
         type: ImageBlock
     motion: move-to-left
