@@ -104,7 +104,7 @@ sections:
       - url: /images/foto colecao 5p.png
         altText: Contentful logo
         type: ImageBlock
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
