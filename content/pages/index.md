@@ -70,7 +70,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: x-small
             flexDirection: row
             justifyContent: center
     variant: next-prev-nav
