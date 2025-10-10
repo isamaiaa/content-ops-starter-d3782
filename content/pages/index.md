@@ -84,7 +84,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: O mais vendido na Europa
+  - subtitle: O kimono mais vendido na Europa
     images:
       - url: /images/foto colecao 6p.png
         altText: Empathy logo
