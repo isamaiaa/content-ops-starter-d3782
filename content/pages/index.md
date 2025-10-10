@@ -221,9 +221,6 @@ sections:
       - url: /images/foto colecao p.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
