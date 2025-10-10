@@ -212,7 +212,7 @@ sections:
       - url: /images/foto colecao 4p.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/foto colecao 3p.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
