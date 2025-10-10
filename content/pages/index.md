@@ -206,6 +206,9 @@ sections:
       - url: /images/foto colecao 6p.png
         altText: Empathy logo
         type: ImageBlock
+      - url: /images/foto colecao p.png
+        altText: Sanity logo
+        type: ImageBlock
       - url: /images/foto colecao 5p.png
         altText: Wellster logo
         type: ImageBlock
@@ -217,9 +220,6 @@ sections:
         type: ImageBlock
       - url: /images/foto colecao 2p.png
         altText: Contentful logo
-        type: ImageBlock
-      - url: /images/foto colecao p.png
-        altText: Sanity logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
