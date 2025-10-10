@@ -95,7 +95,7 @@ sections:
       - url: /images/foto colecao 5p.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/foto colecao 3p.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
