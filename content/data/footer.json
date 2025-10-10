@@ -67,12 +67,6 @@
             "type": "Social"
         },
         {
-            "altText": "Whastapp",
-            "url": "",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
