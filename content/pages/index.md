@@ -85,8 +85,8 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
+          vestir sua autenticidade com elegância e exclusividade."
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
