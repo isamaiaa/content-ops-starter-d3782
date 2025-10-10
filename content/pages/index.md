@@ -88,7 +88,7 @@ sections:
           "Acreditamos que a moda é uma forma de arte e que cada mulher merece
           vestir sua autenticidade com elegância e exclusividade."
         tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Isadora Maia, Fundadora'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
