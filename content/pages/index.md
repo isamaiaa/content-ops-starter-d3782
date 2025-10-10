@@ -206,19 +206,19 @@ sections:
       - url: /images/foto colecao 6p.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/foto colecao p.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/foto colecao 5p.png
+      - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/foto colecao 4p.png
+      - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/foto colecao 3p.png
+      - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/foto colecao 2p.png
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
     motion: move-to-left
