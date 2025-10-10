@@ -87,7 +87,7 @@ sections:
         title: >-
           "Acreditamos que a moda é uma forma de arte e que cada mulher merece
           vestir sua autenticidade com elegância e exclusividade."
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: 'Isadora Maia, Fundadora'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
