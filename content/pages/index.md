@@ -57,6 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/capa nova.png
   - type: CarouselSection
     subtitle: ''
     items:
