@@ -23,7 +23,7 @@
         {
             "label": "Coleções",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/loja",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
