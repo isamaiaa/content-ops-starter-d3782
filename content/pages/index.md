@@ -89,10 +89,7 @@ sections:
           vestir sua autenticidade com elegância e exclusividade."
         tagline: ''
         subtitle: 'Isadora Maia, Fundadora'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         actions: []
         colors: bg-dark-fg-light
         styles:
