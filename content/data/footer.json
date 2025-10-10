@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Loja",
-                "altText": "Loja",
+                "altText": "Store",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
