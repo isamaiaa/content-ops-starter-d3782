@@ -215,7 +215,7 @@ sections:
       - url: /images/foto colecao 3p.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/foto colecao 2p.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
