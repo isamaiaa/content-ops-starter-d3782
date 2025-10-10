@@ -32,7 +32,7 @@
         {
             "label": "Press & Colab",
             "altText": "Blog",
-            "url": "/careers",
+            "url": "/presscolab",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
