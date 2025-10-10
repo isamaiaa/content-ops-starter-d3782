@@ -7,7 +7,7 @@ sections:
       text: Vista uma Obra de Arte
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Cada kimono é uma peça única, criada com exclusividade e sofisticação para
       mulheres que vivem com autenticidade e elegância.
