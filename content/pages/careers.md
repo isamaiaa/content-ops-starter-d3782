@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Sobre
+    subtitle: ''
     text: >
       A Kimô surge da visão de que a moda pode ser muito mais do que vestuário.
       Cada kimono é concebido como uma obra de arte vestível, onde estampas
