@@ -276,10 +276,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
-    badge:
-      label: contato
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
