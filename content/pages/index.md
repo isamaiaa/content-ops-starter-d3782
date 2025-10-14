@@ -120,7 +120,7 @@ sections:
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044799.png
+        url: /images/bolas_0003_Layer 2.jpg
         altText: Lenço bolas
         elementId: ''
       - type: ImageBlock
