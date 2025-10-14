@@ -96,12 +96,12 @@ sections:
         altText: Lenço bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044785.png
-        altText: Conjunto Bolas
-        elementId: ''
-      - type: ImageBlock
         url: /images/P1044792.png
         altText: Kimo comprido bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/P1044785.png
+        altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
         url: /images/P1044780.png
