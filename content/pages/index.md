@@ -105,7 +105,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/P1044780.png
-        altText: Sanity logo
+        altText: Calça bolas
         elementId: ''
       - type: ImageBlock
         url: /images/rangle-logo.svg
