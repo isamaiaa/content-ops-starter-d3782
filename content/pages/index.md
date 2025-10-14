@@ -2,57 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Vista uma Obra de Arte
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Cada kimono é uma peça única, criada com exclusividade e sofisticação para
-      mulheres que vivem com autenticidade e elegância.
-    actions:
-      - label: Ver coleções
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Nossa história
-        altText: ''
-        url: /sobre
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-96
-          - pl-16
-          - pb-96
-          - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/capa nova.png
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
@@ -123,6 +72,57 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Vista uma Obra de Arte
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      Cada kimono é uma peça única, criada com exclusividade e sofisticação para
+      mulheres que vivem com autenticidade e elegância.
+    actions:
+      - label: Ver coleções
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: Nossa história
+        altText: ''
+        url: /sobre
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-96
+          - pl-16
+          - pb-96
+          - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/capa nova.png
   - type: CarouselSection
     subtitle: ''
     items:
