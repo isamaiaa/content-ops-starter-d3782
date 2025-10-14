@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo MK",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "url": "/images/mk logo novo1.png"
-    },
     "primaryLinks": [
         {
             "label": "Sobre nós",
