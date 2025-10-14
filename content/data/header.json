@@ -1,13 +1,6 @@
 {
     "primaryLinks": [
         {
-            "type": "SubNav",
-            "label": "Home",
-            "altText": "Home",
-            "links": [],
-            "labelStyle": "primary"
-        },
-        {
             "label": "Sobre nós",
             "url": "/sobre",
             "icon": "arrowRight",
