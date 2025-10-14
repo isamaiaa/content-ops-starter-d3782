@@ -26,7 +26,7 @@ sections:
       necessário para criar algo verdadeiramente especial. Cada kimono carrega
       uma história, uma inspiração, uma alma.
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -42,14 +42,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
     media:
       type: ImageBlock
       url: /images/IMG_7386.jpg
