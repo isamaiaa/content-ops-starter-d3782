@@ -96,7 +96,7 @@ sections:
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/P1044799.png
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
