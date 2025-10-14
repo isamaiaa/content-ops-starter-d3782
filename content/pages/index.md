@@ -135,10 +135,6 @@ sections:
         url: /images/bolas_0001_Layer 4.jpg
         altText: Calça bolas
         elementId: ''
-      - type: ImageBlock
-        url: /images/P1044797.png
-        altText: Kimo comprido bolas
-        elementId: ''
     elementId: ''
     motion: move-to-left
     colors: bg-light-fg-dark
