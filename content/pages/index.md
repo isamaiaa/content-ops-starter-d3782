@@ -89,7 +89,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/P1044784.png
-        altText: Empathy logo
+        altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
