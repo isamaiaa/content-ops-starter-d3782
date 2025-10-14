@@ -281,7 +281,7 @@ sections:
 seo:
   metaTitle: Meu kimô
   metaDescription: Vista uma obra de arte
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/mk logo nov.png
   type: Seo
   addTitleSuffix: true
 type: PageLayout
