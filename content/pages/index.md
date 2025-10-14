@@ -280,7 +280,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Meu kimô
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Vista uma obra de arte
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
