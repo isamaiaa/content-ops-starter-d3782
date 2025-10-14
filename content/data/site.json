@@ -1,7 +1,7 @@
 {
     "favicon": "/images/capa nova.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "MK",
+    "titleSuffix": "Vista uma obra de arte",
     "defaultSocialImage": "/images/mk logo nov.png",
     "type": "Config",
     "header": "content/data/header.json"
