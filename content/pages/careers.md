@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: A Arte de Habitar
     text: >
       vestuário. Cada kimono é concebido como uma obra de arte vestível, onde
       estampas únicas se transformam em expressões de personalidade e estilo.
