@@ -25,13 +25,7 @@ sections:
       Trabalhamos com tecidos leves e de alta qualidade, respeitando o tempo
       necessário para criar algo verdadeiramente especial. Cada kimono carrega
       uma história, uma inspiração, uma alma.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
