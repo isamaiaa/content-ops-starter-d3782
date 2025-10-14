@@ -97,7 +97,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/P1044799.png
-        altText: Vise logo
+        altText: Lenço bolas
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg
