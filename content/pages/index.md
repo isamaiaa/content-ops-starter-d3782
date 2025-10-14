@@ -84,34 +84,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
-    images:
-      - url: /images/foto colecao 6p.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/foto colecao p.png
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/foto colecao 5p.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/foto colecao 3p.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/foto colecao 4p.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/foto colecao 5p.png
-        altText: Contentful logo
-        type: ImageBlock
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -153,6 +125,34 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: ''
+    images:
+      - url: /images/foto colecao 6p.png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/foto colecao p.png
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/foto colecao 5p.png
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/foto colecao 3p.png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/foto colecao 4p.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/foto colecao 5p.png
+        altText: Contentful logo
+        type: ImageBlock
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: CarouselSection
     subtitle: ''
     items:
