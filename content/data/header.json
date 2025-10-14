@@ -38,7 +38,7 @@
             "label": "Home",
             "altText": "Home",
             "links": [],
-            "labelStyle": "secondary"
+            "labelStyle": "primary"
         }
     ],
     "secondaryLinks": [
