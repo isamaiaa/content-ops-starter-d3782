@@ -132,7 +132,7 @@ sections:
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/bolas_0001_Layer 4.jpg
+        url: /images/bolas_0001_Layer 4.png
         altText: Calça bolas
         elementId: ''
     elementId: ''
