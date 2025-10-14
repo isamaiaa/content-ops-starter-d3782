@@ -92,7 +92,7 @@ sections:
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/P1044785.png
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
