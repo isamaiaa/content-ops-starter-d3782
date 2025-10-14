@@ -74,7 +74,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'Vista uma '
       color: text-dark
   - type: GenericSection
     title:
