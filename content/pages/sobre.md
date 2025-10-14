@@ -66,4 +66,5 @@ seo:
   socialImage: /images/IMG_7386.jpg
   type: Seo
 type: PageLayout
+isDraft: false
 ---
