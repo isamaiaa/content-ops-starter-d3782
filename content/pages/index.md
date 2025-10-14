@@ -36,13 +36,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-dark-fg-light
         styles:
