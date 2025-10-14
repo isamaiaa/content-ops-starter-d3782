@@ -87,7 +87,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/meukimô-079.jpg
           altText: Placeholder text
           styles:
             self:
