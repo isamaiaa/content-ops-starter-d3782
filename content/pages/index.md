@@ -100,7 +100,7 @@ sections:
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/P1044792.png
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
