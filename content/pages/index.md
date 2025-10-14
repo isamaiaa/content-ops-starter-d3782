@@ -92,12 +92,12 @@ sections:
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044785.png
-        altText: Conjunto Bolas
-        elementId: ''
-      - type: ImageBlock
         url: /images/P1044799.png
         altText: Lenço bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/P1044785.png
+        altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
         url: /images/contenful-logo.svg
