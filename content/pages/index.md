@@ -226,7 +226,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Entre em contato
+      text: OLÁ!
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
