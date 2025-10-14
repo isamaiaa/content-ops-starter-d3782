@@ -84,53 +84,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
-    images:
-      - url: /images/foto colecao 6p.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/foto colecao p.png
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/foto colecao 5p.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/foto colecao 3p.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/foto colecao 4p.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/foto colecao 5p.png
-        altText: Contentful logo
-        type: ImageBlock
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - type: ImageGallerySection
     subtitle: Our customers
     images:
@@ -180,6 +133,53 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: ''
+    images:
+      - url: /images/foto colecao 6p.png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/foto colecao p.png
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/foto colecao 5p.png
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/foto colecao 3p.png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/foto colecao 4p.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/foto colecao 5p.png
+        altText: Contentful logo
+        type: ImageBlock
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
