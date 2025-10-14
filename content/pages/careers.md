@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Arte de Habitar
+    subtitle: Sobre
     text: >
       A Kimô surge da visão de que a moda pode ser muito mais do que vestuário.
       Cada kimono é concebido como uma obra de arte vestível, onde estampas
