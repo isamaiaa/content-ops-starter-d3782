@@ -26,7 +26,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/meukimô-206 2.png
-          altText: Image alt text placeholder
+          altText: Coleção Bahia de todos os santos
           elementId: ''
           styles:
             self:
