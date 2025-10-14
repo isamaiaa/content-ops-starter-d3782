@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "Equipe",
-                "altText": "careers page",
+                "altText": "sobre nos",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
