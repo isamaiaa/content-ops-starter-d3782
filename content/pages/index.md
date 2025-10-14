@@ -128,7 +128,7 @@ sections:
         altText: Kimo comprido bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044785.png
+        url: /images/bolas_0002_Layer 3.jpg
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
