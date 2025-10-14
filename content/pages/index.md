@@ -53,17 +53,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/capa nova.png
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
   - type: CarouselSection
     subtitle: ''
     items:
@@ -95,6 +84,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - type: ImageGallerySection
     subtitle: ''
     images:
