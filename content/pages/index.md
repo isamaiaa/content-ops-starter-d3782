@@ -231,8 +231,8 @@ sections:
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: >
-      Preencha o formulário abaixo e retornaremos em até 24 horas. Para dúvidas
-      sobre produtos, encomendas especiais ou colaborações.
+      Preencha o formulário e retornaremos em até 24 horas. Para dúvidas sobre
+      produtos, encomendas especiais ou colaborações.
     media:
       fields:
         - name: nome
