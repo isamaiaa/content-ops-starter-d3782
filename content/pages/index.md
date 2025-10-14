@@ -64,7 +64,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/meukimô-216.jpg
           altText: Placeholder text
           styles:
             self:
