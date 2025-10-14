@@ -11,8 +11,9 @@ sections:
       type: TitleBlock
     subtitle: A Arte de Habitar
     text: >
-      vestuário. Cada kimono é concebido como uma obra de arte vestível, onde
-      estampas únicas se transformam em expressões de personalidade e estilo.
+      A Kimô surge da visão de que a moda pode ser muito mais do que vestuário.
+      Cada kimono é concebido como uma obra de arte vestível, onde estampas
+      únicas se transformam em expressões de personalidade e estilo.
 
 
       Nossa marca nasceu da necessidade de criar peças que honrassem tanto a
