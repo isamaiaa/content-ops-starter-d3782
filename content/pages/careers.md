@@ -60,7 +60,9 @@ sections:
           borderRadius: medium
 seo:
   metaTitle: Sobre nós
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: >-
+    Faça Parte da Nossa HistóriaDescubra como cada kimono pode se tornar uma
+    extensão da sua personalidade e estilo único.
   socialImage: /images/IMG_7386.jpg
   type: Seo
 type: PageLayout
