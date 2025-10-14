@@ -1,6 +1,6 @@
 ---
 title: Sobre nós
-slug: careers
+slug: sobre
 sections:
   - title:
       text: A Arte de Habitar
