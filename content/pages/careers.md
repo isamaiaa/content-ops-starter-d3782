@@ -61,7 +61,7 @@ sections:
 seo:
   metaTitle: Sobre nós
   metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IMG_7386.jpg
   type: Seo
 type: PageLayout
 ---
