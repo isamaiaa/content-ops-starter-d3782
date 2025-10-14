@@ -2,7 +2,7 @@
     "favicon": "/images/capa nova.png",
     "footer": "content/data/footer.json",
     "titleSuffix": "MK",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/mk logo nov.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
