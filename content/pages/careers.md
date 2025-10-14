@@ -3,7 +3,7 @@ title: Sobre nós
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: A Arte de Habitar
       color: text-dark
       styles:
         self:
