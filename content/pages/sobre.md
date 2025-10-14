@@ -26,7 +26,7 @@ sections:
       necessário para criar algo verdadeiramente especial. Cada kimono carrega
       uma história, uma inspiração, uma alma.
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
