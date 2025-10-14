@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Sobre nós
 slug: careers
 sections:
   - title:
