@@ -108,7 +108,7 @@ sections:
         altText: Calça bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/P1044797.png
         altText: Rangle logo
         elementId: ''
     elementId: ''
