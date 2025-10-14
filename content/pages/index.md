@@ -116,7 +116,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/P1044784.png
+        url: /images/bolas_0004_Layer 1.jpg
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
