@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/capa nova.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "MK",
+    "defaultSocialImage": "/images/mk logo nov.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
