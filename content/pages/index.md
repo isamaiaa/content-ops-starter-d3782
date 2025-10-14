@@ -116,6 +116,10 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
+        url: /images/bolas_0002_Layer 3.jpg
+        altText: Conjunto Bolas
+        elementId: ''
+      - type: ImageBlock
         url: /images/bolas_0004_Layer 1.jpg
         altText: Conjunto Bolas
         elementId: ''
@@ -126,10 +130,6 @@ sections:
       - type: ImageBlock
         url: /images/bolas_0000_Layer 5.jpg
         altText: Kimo comprido bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0002_Layer 3.jpg
-        altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
         url: /images/bolas_0001_Layer 4.png
