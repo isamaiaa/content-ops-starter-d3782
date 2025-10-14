@@ -124,7 +124,7 @@ sections:
         altText: Lenço bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044792.png
+        url: /images/bolas_0000_Layer 5.jpg
         altText: Kimo comprido bolas
         elementId: ''
       - type: ImageBlock
