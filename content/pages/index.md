@@ -70,7 +70,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Vista uma Obra de Arte
+      text: ''
       color: text-dark
   - type: GenericSection
     title:
