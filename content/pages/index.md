@@ -88,7 +88,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/P1044784.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
