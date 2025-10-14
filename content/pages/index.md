@@ -109,7 +109,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/P1044797.png
-        altText: Rangle logo
+        altText: Kimo comprido bolas
         elementId: ''
     elementId: ''
     motion: move-to-left
