@@ -11,11 +11,19 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      vestuário. Cada kimono é concebido como uma obra de arte vestível, onde
+      estampas únicas se transformam em expressões de personalidade e estilo.
+
+
+      Nossa marca nasceu da necessidade de criar peças que honrassem tanto a
+      tradição artesanal quanto a inovação contemporânea. Cada estampa é
+      numerada como uma tiragem limitada, garantindo exclusividade e valor
+      artístico a cada peça.
+
+
+      Trabalhamos com tecidos leves e de alta qualidade, respeitando o tempo
+      necessário para criar algo verdadeiramente especial. Cada kimono carrega
+      uma história, uma inspiração, uma alma.
     actions:
       - label: See open positions
         url: /
