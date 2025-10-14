@@ -124,16 +124,16 @@ sections:
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
+        url: /images/bolas_0001_Layer 4.png
+        altText: Calça bolas
+        elementId: ''
+      - type: ImageBlock
         url: /images/bolas_0003_Layer 2.jpg
         altText: Lenço bolas
         elementId: ''
       - type: ImageBlock
         url: /images/bolas_0000_Layer 5.jpg
         altText: Kimo comprido bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0001_Layer 4.png
-        altText: Calça bolas
         elementId: ''
     elementId: ''
     motion: move-to-left
