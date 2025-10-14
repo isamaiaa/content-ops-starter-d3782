@@ -59,7 +59,7 @@ sections:
         self:
           borderRadius: medium
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: Sobre nós
   metaDescription: This is the careers page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
