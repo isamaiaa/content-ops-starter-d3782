@@ -1,6 +1,6 @@
 ---
 title: Sobre nós
-slug: careers
+slug: sobre
 sections:
   - title:
       text: A Arte de Habitar
@@ -59,9 +59,11 @@ sections:
         self:
           borderRadius: medium
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Sobre nós
+  metaDescription: >-
+    Faça Parte da Nossa HistóriaDescubra como cada kimono pode se tornar uma
+    extensão da sua personalidade e estilo único.
+  socialImage: /images/IMG_7386.jpg
   type: Seo
 type: PageLayout
 ---
