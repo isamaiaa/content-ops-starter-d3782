@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Nossa história
         altText: ''
-        url: /
+        url: /sobrenos
         showIcon: true
         icon: arrowRight
         iconPosition: right
