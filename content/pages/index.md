@@ -58,7 +58,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Imagem
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
