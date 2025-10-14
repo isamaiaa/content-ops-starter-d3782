@@ -101,7 +101,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/P1044792.png
-        altText: Contentful logo
+        altText: Kimo comprido bolas
         elementId: ''
       - type: ImageBlock
         url: /images/sanity-logo.svg
