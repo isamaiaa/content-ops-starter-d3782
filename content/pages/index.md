@@ -93,7 +93,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/P1044785.png
-        altText: Wellster logo
+        altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
