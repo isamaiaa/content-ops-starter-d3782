@@ -229,7 +229,7 @@ sections:
       text: OLÁ!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Entre em contato
     text: >
       Preencha o formulário e retornaremos o mais breve possível. Para dúvidas
       sobre produtos, encomendas especiais ou colaborações.
