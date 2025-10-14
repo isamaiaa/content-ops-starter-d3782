@@ -84,10 +84,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: Isadora Maia
-      color: text-primary
   - type: ImageGallerySection
     subtitle: ''
     images:
