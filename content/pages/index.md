@@ -2,118 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/meukimô-206 2.png
-          altText: Coleção Bahia de todos os santos
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/meukimô-170.jpg
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/meukimô-216.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/meukimô-079.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
   - type: GenericSection
     title:
       text: Vista uma Obra de Arte
@@ -228,27 +116,23 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/P1044784.png
+        url: /images/bolas_0002_Layer 3.jpg
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044799.png
-        altText: Lenço bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/P1044792.png
-        altText: Kimo comprido bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/P1044785.png
+        url: /images/bolas_0004_Layer 1.jpg
         altText: Conjunto Bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044780.png
+        url: /images/bolas_0001_Layer 4.png
         altText: Calça bolas
         elementId: ''
       - type: ImageBlock
-        url: /images/P1044797.png
+        url: /images/bolas_0003_Layer 2.jpg
+        altText: Lenço bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0000_Layer 5.jpg
         altText: Kimo comprido bolas
         elementId: ''
     elementId: ''
@@ -269,6 +153,118 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/meukimô-206 2.png
+          altText: Coleção Bahia de todos os santos
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/meukimô-170.jpg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/meukimô-216.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/meukimô-079.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
