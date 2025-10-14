@@ -51,7 +51,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/meukimô-170.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
