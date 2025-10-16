@@ -81,10 +81,10 @@ sections:
         title: Texto
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Cada coleção conta uma história única através de estampas numeradas
+          como tiragens limitadas, tudo muito exclusivo pra você que valoriza
+          isso.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
