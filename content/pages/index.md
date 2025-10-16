@@ -82,7 +82,7 @@ sections:
           "Acreditamos que a moda é uma forma de arte e que cada mulher merece
           vestir sua autenticidade com elegância e exclusividade."
         tagline: ''
-        subtitle: Be in good company
+        subtitle: 'Isadora Maia, Fundadora'
         text: ''
         actions: []
         colors: bg-light-fg-dark
