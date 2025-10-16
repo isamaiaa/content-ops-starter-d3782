@@ -78,9 +78,11 @@ sections:
             justifyContent: center
             borderColor: border-dark
       - type: FeaturedItem
-        title: Business Consulting
+        title: >-
+          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
+          vestir sua autenticidade com elegância e exclusividade."
         tagline: ''
-        subtitle: Be in good company
+        subtitle: 'Isadora Maia, Fundadora'
         text: ''
         actions: []
         colors: bg-light-fg-dark
@@ -286,29 +288,6 @@ sections:
         image:
           type: ImageBlock
           url: /images/meukimô-216.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/meukimô-079.jpg
           altText: Placeholder text
           styles:
             self:
