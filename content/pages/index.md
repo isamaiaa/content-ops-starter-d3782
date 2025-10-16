@@ -451,10 +451,6 @@ sections:
         altText: Geo amarelo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/contenful-logo.svg
         altText: Contentful logo
         elementId: ''
