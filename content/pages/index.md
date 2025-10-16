@@ -308,13 +308,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/meukimô-079.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
