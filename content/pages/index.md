@@ -284,7 +284,7 @@ sections:
         altText: geo amarelo conj
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/geo amarelo_0000_P1044657.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
