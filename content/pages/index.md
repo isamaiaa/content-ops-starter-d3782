@@ -439,7 +439,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/meukimô-170.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
