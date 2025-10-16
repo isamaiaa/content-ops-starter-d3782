@@ -448,7 +448,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/meukimô-216.jpg
-        altText: Vise logo
+        altText: Geo amarelo
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg
