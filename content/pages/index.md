@@ -87,7 +87,6 @@ sections:
           isso.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
           altText: Business consulting
           elementId: ''
           styles:
