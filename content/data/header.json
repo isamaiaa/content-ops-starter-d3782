@@ -52,7 +52,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "login",
             "altText": "",
             "url": "/",
             "showIcon": false,
