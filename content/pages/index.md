@@ -296,7 +296,7 @@ sections:
         altText: geo amarelo lenco
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/geo amarelo_0003_P1044663.jpg
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
