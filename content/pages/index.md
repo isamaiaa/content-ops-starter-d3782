@@ -80,7 +80,10 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Cada coleção conta uma história única através de estampas numeradas
+          como tiragens limitadas, tudo muito exclusivo pra você que valoriza
+          isso.
         text: ''
         image:
           type: ImageBlock
