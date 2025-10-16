@@ -225,39 +225,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/meukimô-170.jpg
-        altText: Caminhada
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-206 2.png
-        altText: Geo amarelo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-216.jpg
-        altText: Geo amarelo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: CarouselSection
     subtitle: ''
     items:
