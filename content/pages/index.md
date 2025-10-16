@@ -293,7 +293,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/geo amarelo_0002_P1044666.jpg
-        altText: Telus logo
+        altText: geo amarelo lenco
         elementId: ''
       - type: ImageBlock
         url: /images/contenful-logo.svg
