@@ -164,6 +164,47 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: ImageGallerySection
+    subtitle: Our customers
+    images:
+      - type: ImageBlock
+        url: /images/geo amarelo_0004_P1044651.jpg
+        altText: geo amarelo conj
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0000_P1044657.jpg
+        altText: geo amarelo kimo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0001_P1044664.jpg
+        altText: geo amarelo calca
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0002_P1044666.jpg
+        altText: geo amarelo lenco
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0003_P1044663.jpg
+        altText: geo amarelo costas
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     subtitle: ''
     items:
@@ -276,47 +317,6 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-  - type: ImageGallerySection
-    subtitle: Our customers
-    images:
-      - type: ImageBlock
-        url: /images/geo amarelo_0004_P1044651.jpg
-        altText: geo amarelo conj
-        elementId: ''
-      - type: ImageBlock
-        url: /images/geo amarelo_0000_P1044657.jpg
-        altText: geo amarelo kimo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/geo amarelo_0001_P1044664.jpg
-        altText: geo amarelo calca
-        elementId: ''
-      - type: ImageBlock
-        url: /images/geo amarelo_0002_P1044666.jpg
-        altText: geo amarelo lenco
-        elementId: ''
-      - type: ImageBlock
-        url: /images/geo amarelo_0003_P1044663.jpg
-        altText: geo amarelo costas
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
