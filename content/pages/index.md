@@ -289,7 +289,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/geo amarelo_0001_P1044664.jpg
-        altText: Vise logo
+        altText: geo amarelo calca
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg
