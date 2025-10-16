@@ -19,7 +19,7 @@ sections:
           name: nome
           label: Nome
           hideLabel: true
-          placeholder: Your name
+          placeholder: Seu nome
           isRequired: true
           width: full
         - type: EmailFormControl
