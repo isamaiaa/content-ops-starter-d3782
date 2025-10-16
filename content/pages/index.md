@@ -451,7 +451,7 @@ sections:
         altText: Geo amarelo
         elementId: ''
     elementId: ''
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
