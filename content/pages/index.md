@@ -165,7 +165,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/geo amarelo_0004_P1044651.jpg
