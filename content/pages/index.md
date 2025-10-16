@@ -78,7 +78,7 @@ sections:
             justifyContent: center
             borderColor: border-dark
       - type: FeaturedItem
-        title: Texto
+        title: Sobre as coleções
         tagline: ''
         subtitle: ''
         text: >
