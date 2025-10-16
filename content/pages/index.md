@@ -345,7 +345,7 @@ sections:
       arte única, feita para atravessar o tempo e vestir todos os corpos.
     media:
       title: Nossa história
-      url: ''
+      url: 'https://www.youtube.com/watch?v=fqoNhGDv-9M'
       controls: false
       aspectRatio: '16:9'
       styles:
