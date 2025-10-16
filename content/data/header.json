@@ -28,7 +28,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Contato",
             "altText": "",
             "url": "/contato",
             "showIcon": false,
