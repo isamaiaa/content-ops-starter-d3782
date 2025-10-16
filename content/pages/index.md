@@ -78,22 +78,52 @@ sections:
             justifyContent: center
             borderColor: border-dark
       - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: >-
-          Cada coleção conta uma história única através de estampas numeradas
-          como tiragens limitadas, tudo muito exclusivo pra você que valoriza
-          isso.
-        text: ''
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
+          url: /images/img-placeholder.svg
           altText: Business consulting
           elementId: ''
           styles:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -192,6 +222,47 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/geo amarelo_0004_P1044651.jpg
+        altText: geo amarelo conj
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0000_P1044657.jpg
+        altText: geo amarelo kimo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0001_P1044664.jpg
+        altText: geo amarelo calca
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0002_P1044666.jpg
+        altText: geo amarelo lenco
+        elementId: ''
+      - type: ImageBlock
+        url: /images/geo amarelo_0003_P1044663.jpg
+        altText: geo amarelo costas
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-5
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     subtitle: ''
     items:
@@ -227,7 +298,7 @@ sections:
         subtitle: ''
         text: ''
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -315,21 +386,21 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Conheça mais da nossa história
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: Nossa história
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -348,7 +419,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: isadora maia para meu kimô
       color: text-primary
       styles:
         self:
