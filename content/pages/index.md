@@ -280,7 +280,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/geo amarelo_0004_P1044651.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
