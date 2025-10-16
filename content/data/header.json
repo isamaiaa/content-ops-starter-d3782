@@ -9,6 +9,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/home",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Coleções",
             "altText": "Shop",
             "url": "/loja",
@@ -31,17 +42,6 @@
             "label": "Contato",
             "altText": "",
             "url": "/contato",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "See Tutorials",
-            "altText": "",
-            "url": "/home",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
