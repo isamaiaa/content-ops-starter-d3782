@@ -225,39 +225,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/meukimô-170.jpg
-        altText: Caminhada
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-206 2.png
-        altText: Geo amarelo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-216.jpg
-        altText: Geo amarelo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: CarouselSection
     subtitle: ''
     items:
@@ -281,7 +248,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/meukimô-206 2.png
+          url: /images/meukimô-216.png
           altText: Coleção Bahia de todos os santos
           elementId: ''
           styles:
@@ -307,35 +274,12 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/meukimô-170.jpg
+          url: /images/meukimô-206 2.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
             self:
               borderRadius: medium
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/meukimô-216.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
@@ -365,14 +309,20 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      A Meu Kimô nasceu em 2017, criada pela artista e designer Isadora Maia, a
+      partir do desejo de transformar arte em experiência cotidiana. Cada
+      estampa vem de pinturas autorais, que ganham vida em kimonos: a primeira
+      modelagem registrada na história das roupas, símbolo de fluidez e
+      atemporalidade.
+
+
+      Unindo moda, arte e propósito, a marca celebra a beleza da diversidade e o
+      vestir como um gesto de expressão. Cada peça é numerada, como uma obra de
+      arte única, feita para atravessar o tempo e vestir todos os corpos.
     media:
       title: Nossa história
-      url: ''
+      url: 'https://www.youtube.com/watch?v=fqoNhGDv-9M'
       controls: false
       aspectRatio: '16:9'
       styles:
