@@ -297,7 +297,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/geo amarelo_0003_P1044663.jpg
-        altText: Contentful logo
+        altText: geo amarelo costas
         elementId: ''
       - type: ImageBlock
         url: /images/sanity-logo.svg
