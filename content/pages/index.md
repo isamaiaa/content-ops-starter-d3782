@@ -342,7 +342,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Nossa história
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=PdvzokuW2Nk'
       controls: false
       aspectRatio: '16:9'
       styles:
