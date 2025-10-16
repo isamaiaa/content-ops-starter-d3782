@@ -361,7 +361,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: isadora maia para meu kimõ
+      label: isadora maia para meu kimô
       color: text-primary
       styles:
         self:
