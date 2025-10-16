@@ -77,34 +77,6 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-dark
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: >-
-          Cada coleção conta uma história única através de estampas numeradas
-          como tiragens limitadas, tudo muito exclusivo pra você que valoriza
-          isso.
-        text: ''
-        image:
-          type: ImageBlock
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
