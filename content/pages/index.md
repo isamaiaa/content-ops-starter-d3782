@@ -78,7 +78,9 @@ sections:
             justifyContent: center
             borderColor: border-dark
       - type: FeaturedItem
-        title: Business Consulting
+        title: >-
+          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
+          vestir sua autenticidade com elegância e exclusividade."
         tagline: ''
         subtitle: Be in good company
         text: ''
