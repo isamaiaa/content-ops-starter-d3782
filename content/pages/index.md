@@ -288,7 +288,7 @@ sections:
         altText: geo amarelo kimo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/geo amarelo_0001_P1044664.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
