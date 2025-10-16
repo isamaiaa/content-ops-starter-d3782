@@ -79,7 +79,7 @@ sections:
             borderColor: border-dark
       - type: FeaturedItem
         title: Texto
-        tagline: Feature 2
+        tagline: ''
         subtitle: ''
         text: >
           Cada coleção conta uma história única através de estampas numeradas
