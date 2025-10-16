@@ -49,19 +49,7 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [
-        {
-            "type": "Button",
-            "label": "",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
