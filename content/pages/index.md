@@ -450,10 +450,6 @@ sections:
         url: /images/meukimô-216.jpg
         altText: Geo amarelo
         elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
