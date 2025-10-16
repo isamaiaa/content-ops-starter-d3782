@@ -292,7 +292,7 @@ sections:
         altText: geo amarelo calca
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/geo amarelo_0002_P1044666.jpg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
