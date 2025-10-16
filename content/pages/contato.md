@@ -16,7 +16,7 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: name
+          name: nome
           label: Name
           hideLabel: true
           placeholder: Your name
