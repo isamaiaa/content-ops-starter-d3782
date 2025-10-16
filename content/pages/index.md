@@ -81,10 +81,7 @@ sections:
         title: Sobre as coleções
         tagline: ''
         subtitle: ''
-        text: >
-          Cada coleção conta uma história única através de estampas numeradas
-          como tiragens limitadas, tudo muito exclusivo pra você que valoriza
-          isso.
+        text: ''
         image:
           type: ImageBlock
           altText: Business consulting
