@@ -333,10 +333,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Meu Kimô nasceu em 2017, criada pela artista e designer **Isadora
-      Maia**, a partir do desejo de transformar arte em experiência cotidiana.
-      Cada estampa vem de pinturas autorais, que ganham vida em kimonos: a
-      primeira modelagem registrada na história das roupas, símbolo de fluidez e
+      A Meu Kimô nasceu em 2017, criada pela artista e designer Isadora Maia, a
+      partir do desejo de transformar arte em experiência cotidiana. Cada
+      estampa vem de pinturas autorais, que ganham vida em kimonos: a primeira
+      modelagem registrada na história das roupas, símbolo de fluidez e
       atemporalidade.
 
 
