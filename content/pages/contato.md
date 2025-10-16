@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Generic Section With A Form
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Entre em contato
     text: >
       Preencha o formulário e retornaremos o mais breve possível. Para dúvidas
       sobre produtos, encomendas especiais ou colaborações.
