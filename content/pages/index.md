@@ -274,7 +274,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/meukimô-170.jpg
+          url: /images/meukimô-206 2.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
