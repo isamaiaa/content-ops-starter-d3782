@@ -361,7 +361,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: isadora maia para meu kimõ
       color: text-primary
       styles:
         self:
