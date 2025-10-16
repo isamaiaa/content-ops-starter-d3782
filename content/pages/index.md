@@ -281,7 +281,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/geo amarelo_0004_P1044651.jpg
-        altText: Empathy logo
+        altText: geo amarelo conj
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
