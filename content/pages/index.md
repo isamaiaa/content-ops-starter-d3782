@@ -285,7 +285,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/geo amarelo_0000_P1044657.jpg
-        altText: Wellster logo
+        altText: geo amarelo kimo
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
