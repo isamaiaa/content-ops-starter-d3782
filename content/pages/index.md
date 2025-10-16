@@ -299,10 +299,6 @@ sections:
         url: /images/geo amarelo_0003_P1044663.jpg
         altText: geo amarelo costas
         elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
