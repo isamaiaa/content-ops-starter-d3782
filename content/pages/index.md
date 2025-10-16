@@ -80,7 +80,7 @@ sections:
       - type: FeaturedItem
         title: Texto
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: >
           Cada coleção conta uma história única através de estampas numeradas
           como tiragens limitadas, tudo muito exclusivo pra você que valoriza
