@@ -436,7 +436,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
