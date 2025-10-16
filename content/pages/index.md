@@ -447,7 +447,7 @@ sections:
         altText: Geo amarelo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/meukimô-216.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
