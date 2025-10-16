@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Olá
+      text: Olá!
       color: text-dark
     subtitle: Entre em contato
     text: >
