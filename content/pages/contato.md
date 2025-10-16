@@ -1,0 +1,70 @@
+---
+type: PageLayout
+title: Entre em contato
+sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Olá!
+      color: text-dark
+    subtitle: Entre em contato
+    text: >
+      Preencha o formulário e retornaremos o mais breve possível. Para dúvidas
+      sobre produtos, encomendas especiais ou colaborações.
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: nome
+          label: Nome
+          hideLabel: true
+          placeholder: Seu nome
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Seu email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Sua mensagem
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Enviar
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: Contact Us
+      color: text-primary
+    colors: bg-light-fg-dark
+slug: contato
+isDraft: false
+seo:
+  type: Seo
+  metaTitle: Landing Page
+  metaDescription: Contato MK
+  addTitleSuffix: true
+  socialImage: /images/capa nova.png
+  metaTags: []
+---
