@@ -300,7 +300,7 @@ sections:
         altText: geo amarelo costas
         elementId: ''
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
