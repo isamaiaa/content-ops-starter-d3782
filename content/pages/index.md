@@ -78,10 +78,7 @@ sections:
             justifyContent: center
             borderColor: border-dark
       - type: FeaturedItem
-        title: >-
-          Cada coleção conta uma história única através de estampas numeradas
-          como tiragens limitadas, tudo muito exclusivo pra você que valoriza
-          isso.
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
