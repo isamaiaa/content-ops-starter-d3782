@@ -440,7 +440,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/meukimô-170.jpg
-        altText: Empathy logo
+        altText: Caminhada
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
