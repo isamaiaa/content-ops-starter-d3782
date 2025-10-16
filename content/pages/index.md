@@ -444,7 +444,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/meukimô-206 2.png
-        altText: Wellster logo
+        altText: Geo amarelo
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
