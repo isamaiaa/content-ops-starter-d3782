@@ -63,7 +63,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Contato MK
   addTitleSuffix: true
   socialImage: /images/capa nova.png
   metaTags: []
