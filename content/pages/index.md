@@ -229,7 +229,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: Coleção Bahia de todos os santos
         tagline: ''
         subtitle: ''
         text: ''
