@@ -328,7 +328,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Conheça mais da nossa história!!!
+      text: Conheça mais da nossa história
       color: text-dark
       styles:
         self:
