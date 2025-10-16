@@ -31,7 +31,7 @@
         {
             "label": "Press & Colab",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/press",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
