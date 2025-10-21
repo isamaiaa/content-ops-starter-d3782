@@ -9,8 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Cada kimono é uma peça única, criada com exclusividade e sofisticação para
-      pessoas que vivem com autenticidade e elegância.
+      Cada kimono é uma peça única, criada com 
+
+
+      exclusividade e sofisticação para pessoas que vivem com autenticidade e
+      elegância.
     actions:
       - label: Ver coleções
         altText: ''
