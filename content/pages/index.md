@@ -54,7 +54,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/capa nova alt.png
+      url: /images/capa esc.png
   - type: ImageGallerySection
     subtitle: ''
     images:
