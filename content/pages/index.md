@@ -35,7 +35,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
