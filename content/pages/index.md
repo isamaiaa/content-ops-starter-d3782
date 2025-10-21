@@ -178,7 +178,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/meukimô-216.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
