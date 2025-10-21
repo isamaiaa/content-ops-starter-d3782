@@ -53,57 +53,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/capa nova alt.png
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: >-
-          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
-          vestir sua autenticidade com elegância e exclusividade."
-        tagline: ''
-        subtitle: 'Isadora Maia, Fundadora'
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: x-small
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-dark
-      - type: FeaturedItem
-        title: >-
-          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
-          vestir sua autenticidade com elegância e exclusividade."
-        tagline: ''
-        subtitle: 'Isadora Maia, Fundadora'
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
