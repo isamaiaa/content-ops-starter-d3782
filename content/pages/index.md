@@ -174,16 +174,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: ImageGallerySection
     subtitle: Our customers
     images:
@@ -350,6 +340,16 @@ sections:
         elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
 seo:
   metaTitle: Meu kimô
   metaDescription: Vista uma obra de arte
