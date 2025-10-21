@@ -10,7 +10,9 @@ sections:
     subtitle: ''
     text: >
       Cada kimono é uma peça única, criada com exclusividade e sofisticação para
-      pessoas que vivem com autenticidade e elegância.
+      pessoas que vivem com autenticidade e elegância. Acreditamos que a moda é
+      uma forma de arte e que cada um merece vestir sua autenticidade com
+      elegância e exclusividade.
     actions:
       - label: Ver coleções
         altText: ''
