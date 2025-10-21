@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Vista uma Obra de Arte
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
