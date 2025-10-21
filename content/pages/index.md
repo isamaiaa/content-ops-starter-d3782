@@ -5,12 +5,14 @@ sections:
   - type: GenericSection
     title:
       text: Vista uma Obra de Arte
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
       Cada kimono é uma peça única, criada com exclusividade e sofisticação para
-      mulheres que vivem com autenticidade e elegância.
+      pessoas que vivem com autenticidade e elegância. Acreditamos que a moda é
+      uma forma de arte e que cada um merece vestir sua autenticidade com
+      elegância e exclusividade.
     actions:
       - label: Ver coleções
         altText: ''
@@ -27,7 +29,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
         type: Link
     badge:
@@ -35,15 +37,15 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-96
+          - pt-56
           - pl-16
-          - pb-96
+          - pb-56
           - pr-16
     backgroundImage:
       type: BackgroundImage
@@ -52,69 +54,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/capa nova alt.png
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: >-
-          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
-          vestir sua autenticidade com elegância e exclusividade."
-        tagline: ''
-        subtitle: 'Isadora Maia, Fundadora'
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: x-small
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-dark
-      - type: FeaturedItem
-        title: >-
-          "Acreditamos que a moda é uma forma de arte e que cada mulher merece
-          vestir sua autenticidade com elegância e exclusividade."
-        tagline: ''
-        subtitle: 'Isadora Maia, Fundadora'
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
+      url: /images/capa esc.png
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -225,82 +165,39 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: CarouselSection
+  - type: ImageGallerySection
     subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/meukimô-216.png
-          altText: Coleção Bahia de todos os santos
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/meukimô-206 2.png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-    variant: next-prev-nav
+    images:
+      - type: ImageBlock
+        url: /images/meukimô-216.png
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/meukimô-206 2.png
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/meukimô-170.jpg
+        altText: Vise logo
+        elementId: ''
+    elementId: ''
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Conheça mais da nossa história
       color: text-dark
@@ -418,6 +315,16 @@ sections:
         elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
 seo:
   metaTitle: Meu kimô
   metaDescription: Vista uma obra de arte
