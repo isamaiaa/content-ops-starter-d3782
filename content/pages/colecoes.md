@@ -3,7 +3,7 @@ type: PageLayout
 title: Coleções
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Coleção Bahia
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
