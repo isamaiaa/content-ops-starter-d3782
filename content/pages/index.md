@@ -178,7 +178,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/meukimô-216.jpg
+        url: /images/meukimô-216.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
