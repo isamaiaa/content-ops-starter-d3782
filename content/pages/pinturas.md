@@ -9,10 +9,6 @@ sections:
         url: /images/IMG_7638_0000_Layer 1.jpg
         altText: Aqui e lá
         elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
