@@ -62,7 +62,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: O tempo é o reflexo de nós mesmos
       color: text-dark
 slug: pinturas
 isDraft: false
