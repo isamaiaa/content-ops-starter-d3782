@@ -44,7 +44,7 @@ sections:
         flexDirection: row
         padding:
           - pt-60
-          - pl-56
+          - pl-32
           - pb-60
           - pr-32
         margin:
