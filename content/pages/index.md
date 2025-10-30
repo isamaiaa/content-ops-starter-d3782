@@ -37,7 +37,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -57,7 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/capa esc.png
+      url: /images/capa esc2.png
   - type: ImageGallerySection
     subtitle: ''
     images:
