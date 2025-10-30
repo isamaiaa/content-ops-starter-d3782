@@ -60,6 +60,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
 slug: pinturas
 isDraft: false
 seo:
