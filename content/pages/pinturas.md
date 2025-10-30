@@ -3,7 +3,7 @@ type: PageLayout
 title: Pinturas
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: 'Pinturas '
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0000_Layer 1.jpg
