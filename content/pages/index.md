@@ -48,7 +48,7 @@ sections:
           - pb-60
           - pr-32
         margin:
-          - mr-8
+          - mr-0
     backgroundImage:
       type: BackgroundImage
       altText: Beterraba e musgo
