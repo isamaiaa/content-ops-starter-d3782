@@ -36,7 +36,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Acrílico sobre tela - 2025
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0003_Layer 6.jpg
