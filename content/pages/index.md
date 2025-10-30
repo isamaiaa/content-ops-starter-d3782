@@ -44,7 +44,7 @@ sections:
         flexDirection: row
         padding:
           - pt-60
-          - pl-6
+          - pl-20
           - pb-60
           - pr-6
     backgroundImage:
