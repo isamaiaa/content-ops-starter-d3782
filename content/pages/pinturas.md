@@ -40,7 +40,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0003_Layer 6.jpg
-        altText: Sanity logo
+        altText: O TEMPO É O REFLEXO DE NÓS MESMOS
         elementId: ''
       - type: ImageBlock
         url: /images/rangle-logo.svg
