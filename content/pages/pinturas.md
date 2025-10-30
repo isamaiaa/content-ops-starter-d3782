@@ -42,10 +42,6 @@ sections:
         url: /images/IMG_7638_0003_Layer 6.jpg
         altText: O TEMPO É O REFLEXO DE NÓS MESMOS
         elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
