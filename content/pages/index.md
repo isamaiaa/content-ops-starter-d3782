@@ -46,7 +46,7 @@ sections:
           - pt-60
           - pl-20
           - pb-60
-          - pr-6
+          - pr-20
     backgroundImage:
       type: BackgroundImage
       altText: Beterraba e musgo
