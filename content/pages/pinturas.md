@@ -39,7 +39,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/IMG_7638_0003_Layer 6.jpg
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
