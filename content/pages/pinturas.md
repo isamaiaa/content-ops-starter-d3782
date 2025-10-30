@@ -7,7 +7,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0000_Layer 1.jpg
-        altText: Empathy logo
+        altText: Aqui e lá
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
