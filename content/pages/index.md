@@ -49,6 +49,7 @@ sections:
           - pr-32
         margin:
           - mr-0
+        justifyContent: center
     backgroundImage:
       type: BackgroundImage
       altText: Beterraba e musgo
