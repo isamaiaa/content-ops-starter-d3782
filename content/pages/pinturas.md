@@ -29,7 +29,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Aqui e lá
       color: text-dark
   - type: ImageGallerySection
     subtitle: Acrílico sobre tela - 2025
