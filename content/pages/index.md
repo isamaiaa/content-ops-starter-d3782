@@ -37,16 +37,19 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-56
-          - pl-16
-          - pb-56
-          - pr-16
+          - pt-60
+          - pl-40
+          - pb-60
+          - pr-32
+        margin:
+          - mr-0
+        justifyContent: flex-start
     backgroundImage:
       type: BackgroundImage
       altText: Beterraba e musgo
