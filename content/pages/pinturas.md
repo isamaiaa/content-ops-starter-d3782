@@ -6,7 +6,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/IMG_7638_0000_Layer 1.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
