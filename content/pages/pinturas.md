@@ -27,10 +27,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: Aqui e lá
-      color: text-dark
     badge:
       type: Badge
       label: Aqui e lá
