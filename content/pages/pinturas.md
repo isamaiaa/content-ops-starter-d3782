@@ -51,7 +51,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: O tempo é reflexo de nós mesmos
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0003_Layer 6.jpg
