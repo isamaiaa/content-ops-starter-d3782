@@ -42,7 +42,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
     items:
       - type: FeaturedItem
         title: Account Executive
