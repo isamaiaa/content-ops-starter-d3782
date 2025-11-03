@@ -34,10 +34,6 @@ sections:
       styles:
         self:
           textAlign: center
-    title:
-      type: TitleBlock
-      text: O tempo é reflexo de nós mesmos
-      color: text-dark
   - type: ImageGallerySection
     subtitle: O tempo é reflexo de nós mesmos
     images:
