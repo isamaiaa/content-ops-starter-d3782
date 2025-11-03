@@ -102,7 +102,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0001_Layer 6 copy.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.28.55.png
         altText: Como atravessar um rio sem margem
         elementId: ''
     elementId: ''
