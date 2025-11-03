@@ -233,7 +233,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Screen Shot 2025-11-03 at 14.29.43.png
-        altText: Aqui e lá
+        altText: Tudo que já foi ainda é
         elementId: ''
     elementId: ''
     motion: static
