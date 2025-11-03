@@ -3,7 +3,7 @@ type: PageLayout
 title: Pinturas
 sections:
   - type: ImageGallerySection
-    subtitle: O tempo é reflexo de nós mesmos
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0000_Layer 1.jpg
@@ -27,15 +27,31 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
-      color: text-primary
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Aqui e lá
+      color: text-dark
       styles:
         self:
           textAlign: center
+    subtitle: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: ImageGallerySection
-    subtitle: O tempo é reflexo de nós mesmos
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0003_Layer 6.jpg
@@ -59,15 +75,79 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
-      color: text-primary
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: O tempo é reflexo de nós mesmos
+      color: text-dark
       styles:
         self:
           textAlign: center
+    subtitle: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: ImageGallerySection
-    subtitle: Ilha da Madeira
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/IMG_7638_0001_Layer 6 copy.jpg
+        altText: Como atravessar um rio sem margem
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Como atravessar um rio sem margem
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Acrílico sobre tela 86 x 55 cm | R$ 4.200,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0002_Layer 4.jpg
@@ -96,11 +176,45 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: 'Acrílico sobre tela 85 x 95 cm| R$ 4.300,00'
+      label: ''
       color: text-primary
       styles:
         self:
           textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Ilha da Madeira
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Acrílico sobre tela 85 x 95 cm| R$ 4.300,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
 slug: pinturas
 isDraft: false
 seo:
