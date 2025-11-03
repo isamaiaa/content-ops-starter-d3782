@@ -59,7 +59,7 @@ sections:
       opacity: 100
       url: /images/capa esc2.png
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
