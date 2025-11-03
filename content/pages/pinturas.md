@@ -67,7 +67,7 @@ sections:
     subtitle: Ilha da Madeira
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/IMG_7638_0002_Layer 4.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
