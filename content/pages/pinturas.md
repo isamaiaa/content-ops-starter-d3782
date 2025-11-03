@@ -272,7 +272,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Acrílico sobre tela 86 x 55 cm | R$ 4.300,00'
+    subtitle: 'Acrílico sobre tela 86 x 55 cm | R$ 2.800,00'
     items: []
     actions: []
     variant: toggle-list
