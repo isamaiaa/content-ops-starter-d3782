@@ -54,7 +54,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Nossa Coleção
+      text: Coleção "Travessia"
       color: text-dark
       styles:
         self:
