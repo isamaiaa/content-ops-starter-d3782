@@ -62,7 +62,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/carrossel_0002_conj musgo.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
