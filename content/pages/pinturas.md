@@ -150,7 +150,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0002_Layer 4.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.29.08.png
         altText: Ilha da Madeira
         elementId: ''
         styles:
