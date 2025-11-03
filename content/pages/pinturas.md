@@ -256,7 +256,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ilha da Madeira
+      text: Tudo que já foi ainda é
       color: text-dark
       styles:
         self:
