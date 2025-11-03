@@ -80,7 +80,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0001_Layer 6 copy.jpg
-        altText: Aqui e lá
+        altText: Como atravessar um rio sem margem
         elementId: ''
     elementId: ''
     motion: static
