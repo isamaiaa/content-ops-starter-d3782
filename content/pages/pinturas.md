@@ -59,6 +59,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: O tempo é reflexo de nós mesmos
+      color: text-primary
 slug: pinturas
 isDraft: false
 seo:
