@@ -239,6 +239,31 @@ sections:
           - pl-20
           - pb-20
           - pr-20
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/IMG_7638_0000_Layer 1.jpg
+        altText: Aqui e lá
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 slug: pinturas
 isDraft: false
 seo:
