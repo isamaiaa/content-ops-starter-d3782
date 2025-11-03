@@ -133,6 +133,29 @@ sections:
       styles:
         self:
           textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Ilha da Madeira
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Acrílico sobre tela 85 x 95 cm| R$ 4.300,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
 slug: pinturas
 isDraft: false
 seo:
