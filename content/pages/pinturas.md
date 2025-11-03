@@ -27,13 +27,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
