@@ -66,12 +66,12 @@ sections:
         altText: Musgo
         elementId: ''
       - type: ImageBlock
-        url: /images/carrossel_0003_calca musgo.jpg
-        altText: Calça Musgo
-        elementId: ''
-      - type: ImageBlock
         url: /images/carrossel_0008_kimo musgo.jpg
         altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/carrossel_0003_calca musgo.jpg
+        altText: Calça Musgo
         elementId: ''
       - type: ImageBlock
         url: /images/carrossel_0009_kimo cos musgo.jpg
