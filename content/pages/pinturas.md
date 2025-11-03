@@ -30,7 +30,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ilha da Madeira
+      text: Aqui e lá
       color: text-dark
       styles:
         self:
