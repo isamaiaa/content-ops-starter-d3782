@@ -7,7 +7,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0003_Layer 6.jpg
-        altText: O TEMPO É O REFLEXO DE NÓS MESMOS
+        altText: ''
         elementId: ''
     elementId: ''
     motion: static
