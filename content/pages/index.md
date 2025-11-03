@@ -44,9 +44,9 @@ sections:
         flexDirection: row
         padding:
           - pt-60
-          - pl-52
+          - pl-10
           - pb-60
-          - pr-52
+          - pr-10
         margin:
           - mr-0
         justifyContent: flex-start
