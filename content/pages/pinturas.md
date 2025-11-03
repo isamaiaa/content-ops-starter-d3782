@@ -34,6 +34,10 @@ sections:
       styles:
         self:
           textAlign: center
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: ImageGallerySection
     subtitle: O tempo é reflexo de nós mesmos
     images:
