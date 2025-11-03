@@ -53,7 +53,7 @@ sections:
         subtitle: 'R$ 820,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/carrossel_0013_conj mari.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
