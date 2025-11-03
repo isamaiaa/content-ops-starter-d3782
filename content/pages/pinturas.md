@@ -29,7 +29,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: 'Aqui e lá, Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
+      label: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
       color: text-primary
       styles:
         self:
