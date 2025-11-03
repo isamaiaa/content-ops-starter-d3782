@@ -6,7 +6,7 @@ sections:
     subtitle: O tempo é reflexo de nós mesmos
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0000_Layer 1.jpg
+        url: /images/IMG_7638_0003_Layer 6.jpg
         altText: Aqui e lá
         elementId: ''
     elementId: ''
