@@ -66,7 +66,7 @@ sections:
         altText: Musgo
         elementId: ''
       - type: ImageBlock
-        url: /images/conj musgo.png
+        url: /images/carrossel_0003_calca musgo.jpg
         altText: ''
         elementId: ''
       - type: ImageBlock
