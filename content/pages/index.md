@@ -70,7 +70,7 @@ sections:
         altText: Calça Musgo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/carrossel_0008_kimo musgo.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
