@@ -63,7 +63,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/carrossel_0002_conj musgo.jpg
-        altText: Empathy logo
+        altText: Musgo
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
