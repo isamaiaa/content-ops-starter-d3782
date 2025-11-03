@@ -90,7 +90,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/P1044780.png
-          altText: Cotton Knit Throws
+          altText: Calça Bolas
           elementId: ''
           styles:
             self:
