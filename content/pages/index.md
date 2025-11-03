@@ -67,7 +67,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/carrossel_0003_calca musgo.jpg
-        altText: ''
+        altText: Calça Musgo
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
