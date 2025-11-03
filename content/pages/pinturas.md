@@ -9,13 +9,6 @@ sections:
         url: /images/IMG_7638_0000_Layer 1.jpg
         altText: Aqui e lá
         elementId: ''
-      - type: ImageBlock
-        url: /images/hero2.svg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
