@@ -29,7 +29,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: 'Aqui e lá, Acrílico sobre tela157 x 115 cm'
+      label: 'Aqui e lá, Acrílico sobre tela 157 x 115 cm'
       color: text-primary
       styles:
         self:
