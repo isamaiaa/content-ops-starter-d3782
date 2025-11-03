@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0000_Layer 1.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.28.42.png
         altText: Aqui e lá
         elementId: ''
     elementId: ''
