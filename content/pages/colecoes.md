@@ -50,7 +50,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Kimono Mari
-        subtitle: 'R$ '
+        subtitle: 'R$ 820,00'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
