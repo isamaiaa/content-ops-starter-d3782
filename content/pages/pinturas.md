@@ -106,7 +106,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Ilha da Madeira
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0002_Layer 4.jpg
