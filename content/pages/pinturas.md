@@ -85,7 +85,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Ilha da Madeira
       color: text-dark
       styles:
         self:
