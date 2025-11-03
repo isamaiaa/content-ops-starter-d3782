@@ -38,7 +38,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/IMG_7638_0003_Layer 6.jpg
         altText: Rangle logo
         elementId: ''
     elementId: ''
