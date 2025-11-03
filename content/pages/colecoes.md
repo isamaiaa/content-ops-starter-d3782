@@ -54,7 +54,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/carrossel_0013_conj mari.jpg
-          altText: Chunky Cotton Knit Throw
+          altText: Kimono Mai
           elementId: ''
           styles:
             self:
