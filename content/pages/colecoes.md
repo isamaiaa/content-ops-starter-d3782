@@ -89,7 +89,7 @@ sections:
         subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/P1044780.png
           altText: Cotton Knit Throws
           elementId: ''
           styles:
