@@ -93,7 +93,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: Acrílico sobre tela
+      label: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
       color: text-primary
 slug: pinturas
 isDraft: false
