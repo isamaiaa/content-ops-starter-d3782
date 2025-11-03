@@ -58,6 +58,60 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/capa esc2.png
+  - title:
+      text: Conheça mais da nossa história
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      A Meu Kimô nasceu em 2017, criada pela artista e designer Isadora Maia, a
+      partir do desejo de transformar arte em experiência cotidiana. Cada
+      estampa vem de pinturas autorais, que ganham vida em kimonos: a primeira
+      modelagem registrada na história das roupas, símbolo de fluidez e
+      atemporalidade.
+
+
+      Unindo moda, arte e propósito, a marca celebra a beleza da diversidade e o
+      vestir como um gesto de expressão. Cada peça é numerada, como uma obra de
+      arte única, feita para atravessar o tempo e vestir todos os corpos.
+    media:
+      title: Nossa história
+      url: 'https://youtu.be/bIgfyJdkBEg'
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: isadora maia para meu kimô
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -201,60 +255,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Conheça mais da nossa história
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      A Meu Kimô nasceu em 2017, criada pela artista e designer Isadora Maia, a
-      partir do desejo de transformar arte em experiência cotidiana. Cada
-      estampa vem de pinturas autorais, que ganham vida em kimonos: a primeira
-      modelagem registrada na história das roupas, símbolo de fluidez e
-      atemporalidade.
-
-
-      Unindo moda, arte e propósito, a marca celebra a beleza da diversidade e o
-      vestir como um gesto de expressão. Cada peça é numerada, como uma obra de
-      arte única, feita para atravessar o tempo e vestir todos os corpos.
-    media:
-      title: Nossa história
-      url: 'https://youtu.be/bIgfyJdkBEg'
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: isadora maia para meu kimô
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
