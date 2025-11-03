@@ -66,7 +66,7 @@ sections:
         altText: Musgo
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/conj musgo.png
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
