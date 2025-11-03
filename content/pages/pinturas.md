@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0003_Layer 6.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.29.50.png
         altText: O TEMPO É O REFLEXO DE NÓS MESMOS
         elementId: ''
     elementId: ''
