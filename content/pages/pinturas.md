@@ -107,7 +107,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
+    subtitle: 'Acrílico sobre tela 157 x 115 cm | R$ 3.500,00'
     items: []
     actions: []
     variant: toggle-list
