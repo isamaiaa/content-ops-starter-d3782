@@ -233,10 +233,6 @@ sections:
         url: /images/meukimô-206 2.png
         altText: Wellster logo
         elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-170.jpg
-        altText: Vise logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
