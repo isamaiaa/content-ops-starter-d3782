@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Ver coleções
         altText: ''
-        url: /
+        url: /colecoes
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -62,6 +62,43 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
+        url: /images/carrossel_0002_conj musgo.jpg
+        altText: Musgo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/carrossel_0008_kimo musgo.jpg
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/carrossel_0003_calca musgo.jpg
+        altText: Calça Musgo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/carrossel_0009_kimo cos musgo.jpg
+        altText: Telus logo
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
         url: /images/bolas_0002_Layer 3.jpg
         altText: Conjunto Bolas
         elementId: ''
@@ -99,34 +136,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
-    images:
-      - url: /images/foto colecao 6p.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/foto colecao p.png
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/foto colecao 5p.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/foto colecao 3p.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/foto colecao 4p.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/foto colecao 5p.png
-        altText: Contentful logo
-        type: ImageBlock
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -164,39 +173,6 @@ sections:
           - pt-16
           - pl-16
           - pb-5
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/meukimô-216.png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-206 2.png
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-170.jpg
-        altText: Vise logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
           - pr-16
         justifyContent: center
       subtitle:
@@ -255,6 +231,63 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - subtitle: ''
+    images:
+      - url: /images/foto colecao 6p.png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/foto colecao p.png
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/foto colecao 5p.png
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/foto colecao 3p.png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/foto colecao 4p.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/foto colecao 5p.png
+        altText: Contentful logo
+        type: ImageBlock
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/meukimô-216.png
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/meukimô-206 2.png
+        altText: Wellster logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
