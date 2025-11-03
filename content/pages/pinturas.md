@@ -68,7 +68,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0002_Layer 4.jpg
-        altText: Image alt text placeholder
+        altText: Ilha da Madeira
         elementId: ''
         styles:
           self:
