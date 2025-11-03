@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Por Isadora Maia
+      text: Isadora Maia - Artista visual
       color: text-dark
       styles:
         self:
