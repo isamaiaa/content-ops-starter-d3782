@@ -65,7 +65,7 @@ sections:
         subtitle: 'R$ 950,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/P1044784.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
