@@ -3,7 +3,7 @@ type: PageLayout
 title: Pinturas
 sections:
   - type: ImageGallerySection
-    subtitle: Acrílico sobre tela - 2025
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0003_Layer 6.jpg
