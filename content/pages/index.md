@@ -77,10 +77,6 @@ sections:
         url: /images/carrossel_0009_kimo cos musgo.jpg
         altText: Telus logo
         elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
