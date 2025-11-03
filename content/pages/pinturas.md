@@ -3,7 +3,7 @@ type: PageLayout
 title: Pinturas
 sections:
   - type: ImageGallerySection
-    subtitle: 'Aqui e lá, '
+    subtitle: Aqui e lá
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0000_Layer 1.jpg
