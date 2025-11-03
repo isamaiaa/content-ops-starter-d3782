@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Ver coleções
         altText: ''
-        url: /
+        url: /colecoes
         showIcon: false
         icon: arrowRight
         iconPosition: right
