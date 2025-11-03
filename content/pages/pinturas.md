@@ -292,7 +292,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Screen Shot 2025-11-03 at 14.29.30.png
-        altText: Aqui e lá
+        altText: Determinado Instante
         elementId: ''
     elementId: ''
     motion: static
