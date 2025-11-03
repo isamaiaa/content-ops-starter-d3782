@@ -79,7 +79,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0000_Layer 1.jpg
+        url: /images/IMG_7638_0001_Layer 6 copy.jpg
         altText: Aqui e lá
         elementId: ''
     elementId: ''
