@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Kimono Bolas
-        subtitle: $ 88 – $ 176
+        subtitle: 'R$ 950,00'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
