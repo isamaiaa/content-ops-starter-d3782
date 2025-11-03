@@ -34,10 +34,6 @@ sections:
       styles:
         self:
           textAlign: center
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
   - type: ImageGallerySection
     subtitle: Acrílico sobre tela - 2025
     images:
