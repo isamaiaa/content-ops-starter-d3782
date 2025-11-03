@@ -9,7 +9,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
     subtitle: ''
     text: >
       Cada pintura nasce como um território de passagem.
