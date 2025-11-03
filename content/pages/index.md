@@ -74,7 +74,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/carrossel_0009_kimo cos musgo.jpg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
