@@ -135,7 +135,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: 'Acrílico sobre tela 85 x 95 cm| R$ 4.300,00'
+      label: ''
       color: text-primary
       styles:
         self:
