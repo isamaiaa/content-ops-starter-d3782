@@ -95,6 +95,47 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/bolas_0002_Layer 3.jpg
+        altText: Conjunto Bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0004_Layer 1.jpg
+        altText: Conjunto Bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0001_Layer 4.png
+        altText: Calça bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0003_Layer 2.jpg
+        altText: Lenço bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0000_Layer 5.jpg
+        altText: Kimo comprido bolas
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Conheça mais da nossa história
       color: text-dark
@@ -149,47 +190,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/bolas_0002_Layer 3.jpg
-        altText: Conjunto Bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0004_Layer 1.jpg
-        altText: Conjunto Bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0001_Layer 4.png
-        altText: Calça bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0003_Layer 2.jpg
-        altText: Lenço bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0000_Layer 5.jpg
-        altText: Kimo comprido bolas
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - subtitle: ''
     images:
       - url: /images/foto colecao 6p.png
