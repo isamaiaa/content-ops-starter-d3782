@@ -37,7 +37,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: O tempo é reflexo de nós mesmos
       color: text-dark
       styles:
         self:
