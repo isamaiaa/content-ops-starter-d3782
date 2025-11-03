@@ -64,7 +64,7 @@ sections:
       label: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
       color: text-primary
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Ilha da Madeira
     images:
       - type: ImageBlock
         url: /images/hero2.svg
