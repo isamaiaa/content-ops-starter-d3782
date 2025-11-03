@@ -3,40 +3,7 @@ type: PageLayout
 title: Pinturas
 sections:
   - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/IMG_7638_0003_Layer 6.jpg
-        altText: ''
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: O tempo é o reflexo de nós mesmos
-      color: text-dark
-    badge:
-      type: Badge
-      label: 'Acrílico sobre tela , 45 x 30 cm | R$ 3.500,00'
-      color: text-primary
-  - type: ImageGallerySection
-    subtitle: Aqui e lá
+    subtitle: O tempo é reflaxo de nós mesmos
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0000_Layer 1.jpg
