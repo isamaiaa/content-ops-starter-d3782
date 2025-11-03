@@ -91,6 +91,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: Acrílico sobre tela
+      color: text-primary
 slug: pinturas
 isDraft: false
 seo:
