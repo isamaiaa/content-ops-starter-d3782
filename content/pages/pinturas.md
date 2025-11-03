@@ -44,13 +44,7 @@ sections:
           textAlign: center
     subtitle: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
     items: []
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
