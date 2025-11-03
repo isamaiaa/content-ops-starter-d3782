@@ -3,7 +3,7 @@ type: PageLayout
 title: Pinturas
 sections:
   - type: ImageGallerySection
-    subtitle: O tempo é reflaxo de nós mesmos
+    subtitle: O tempo é reflexo de nós mesmos
     images:
       - type: ImageBlock
         url: /images/IMG_7638_0000_Layer 1.jpg
