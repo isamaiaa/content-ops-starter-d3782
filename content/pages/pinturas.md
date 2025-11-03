@@ -11,11 +11,19 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Cada pintura nasce como um território de passagem.
+
+      Mais do que representar o mundo, elas o escutam — permitindo que a tinta
+      encontre seu próprio caminho sobre a tela. As camadas se sobrepõem como
+      tempos que coexistem: o visível e o invisível, o que já foi e o que ainda
+      é.Essas obras são fragmentos de um mesmo fluxo criativo que também habita
+      as estampas da Meu Kimô. Antes de se tornarem vestimenta, são gesto, cor e
+      matéria viva — registros de um instante onde corpo, tempo e espaço se
+      confundem.
+
+
+      Em cada pintura, o acaso se revela e o silêncio se transforma em cor.
     actions: []
     colors: bg-light-fg-dark
     styles:
