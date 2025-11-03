@@ -31,6 +31,10 @@ sections:
       type: TitleBlock
       text: O tempo é o reflexo de nós mesmos
       color: text-dark
+    badge:
+      type: Badge
+      label: 'Acrílico sobre tela , 45 x 30 cm | R$ 3.500,00'
+      color: text-primary
   - type: ImageGallerySection
     subtitle: Aqui e lá
     images:
