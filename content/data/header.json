@@ -22,7 +22,7 @@
         {
             "label": "Coleções",
             "altText": "Shop",
-            "url": "/loja",
+            "url": "/colecoes",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
