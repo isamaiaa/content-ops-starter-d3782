@@ -86,7 +86,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Calça Bolas
-        subtitle: $ 44.99 – $ 90
+        subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
