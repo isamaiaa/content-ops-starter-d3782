@@ -291,7 +291,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0000_Layer 1.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.29.30.png
         altText: Aqui e lá
         elementId: ''
     elementId: ''
