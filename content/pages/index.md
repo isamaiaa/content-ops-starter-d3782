@@ -78,7 +78,7 @@ sections:
         altText: Telus logo
         elementId: ''
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
