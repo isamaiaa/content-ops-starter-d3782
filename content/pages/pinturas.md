@@ -31,6 +31,10 @@ sections:
       type: TitleBlock
       text: Aqui e lá
       color: text-dark
+    badge:
+      type: Badge
+      label: Aqui e lá
+      color: text-primary
   - type: ImageGallerySection
     subtitle: Acrílico sobre tela - 2025
     images:
