@@ -61,7 +61,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: O tempo é reflexo de nós mesmos
+      label: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
       color: text-primary
 slug: pinturas
 isDraft: false
