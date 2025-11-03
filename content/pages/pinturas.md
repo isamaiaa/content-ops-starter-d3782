@@ -82,41 +82,6 @@ sections:
       styles:
         self:
           textAlign: center
-  - type: ImageGallerySection
-    subtitle: Ilha da Madeira
-    images:
-      - type: ImageBlock
-        url: /images/IMG_7638_0002_Layer 4.jpg
-        altText: Ilha da Madeira
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    badge:
-      type: Badge
-      label: 'Acrílico sobre tela 85 x 95 cm| R$ 4.300,00'
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -204,6 +169,41 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: ImageGallerySection
+    subtitle: Ilha da Madeira
+    images:
+      - type: ImageBlock
+        url: /images/IMG_7638_0002_Layer 4.jpg
+        altText: Ilha da Madeira
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    badge:
+      type: Badge
+      label: 'Acrílico sobre tela 85 x 95 cm| R$ 4.300,00'
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
 slug: pinturas
 isDraft: false
 seo:
