@@ -78,7 +78,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ilha da Madeira
+      text: Como atravessar um rio sem margem
       color: text-dark
       styles:
         self:
