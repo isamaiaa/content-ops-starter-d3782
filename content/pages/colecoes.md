@@ -66,7 +66,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/P1044784.png
-          altText: Faux Fur Throw
+          altText: Kimono Bolas
           elementId: ''
           styles:
             self:
