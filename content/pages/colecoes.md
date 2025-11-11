@@ -355,7 +355,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/P1044671.png
-          altText: Faux Fur Throw
+          altText: 'Short Bolas Amarelo (P, M, G)'
           elementId: ''
           styles:
             self:
