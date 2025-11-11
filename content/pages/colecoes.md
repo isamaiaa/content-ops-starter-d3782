@@ -258,7 +258,7 @@ sections:
         subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/geo amarelo_0001_P1044664.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
