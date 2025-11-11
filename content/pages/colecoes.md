@@ -211,7 +211,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/calca beterraba.png
-          altText: Faux Fur Throw
+          altText: Calça Beterraba
           elementId: ''
           styles:
             self:
