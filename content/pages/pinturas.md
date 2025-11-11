@@ -233,6 +233,29 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
+      text: Travessia
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Acrílico sobre tela 120 x 95 cm| R$ 6.500,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
       text: Ilha da Madeira
       color: text-dark
       styles:
@@ -354,29 +377,6 @@ sections:
       self:
         padding:
           - pb-16
-          - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Travessia
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: 'Acrílico sobre tela 120 x 95 cm| R$ 6.500,00'
-    items: []
-    actions: []
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
           - pt-16
           - pl-3
           - pr-3
