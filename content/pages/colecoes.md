@@ -91,7 +91,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/carrossel_0001_kimo ferrugem.jpg
-          altText: Faux Fur Throw
+          altText: Kimono Ferrugem
           elementId: ''
           styles:
             self:
