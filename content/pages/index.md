@@ -138,7 +138,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Nossos produtos
       color: text-dark
   - type: ImageGallerySection
     subtitle: ''
