@@ -336,7 +336,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/Screen Shot 2025-10-25 at 14.10.26.png
