@@ -399,11 +399,11 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Short Turquesa
-        subtitle: 'R$ 400,000'
+        subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/P1044746.png
-          altText: Short Turquesa
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
           elementId: ''
           styles:
             self:
