@@ -206,6 +206,30 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
+        title: Calça Gabi Laranja
+        subtitle: 'R$ 580,00'
+        image:
+          type: ImageBlock
+          url: /images/P1044703.png
+          altText: Calça Gabi Laranja
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
         title: Kimono Beterraba
         subtitle: 'R$ 820,00'
         image:
@@ -284,30 +308,6 @@ sections:
           type: ImageBlock
           url: /images/geo amarelo_0001_P1044664.jpg
           altText: Calça Geométrico Amarelo
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: Calça Gabi Laranja
-        subtitle: 'R$ 580,00'
-        image:
-          type: ImageBlock
-          url: /images/P1044703.png
-          altText: Calça Gabi Laranja
           elementId: ''
           styles:
             self:
