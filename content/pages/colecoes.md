@@ -303,7 +303,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Calça Gabi Laranja
-        subtitle: $ 88 – $ 176
+        subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
