@@ -398,7 +398,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Shot Turquesa
+        title: Short Turquesa
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
