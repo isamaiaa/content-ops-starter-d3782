@@ -51,6 +51,31 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Screen Shot 2025-10-25 at 14.10.26.png
+        altText: Travessia
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -128,31 +153,6 @@ sections:
       - type: ImageBlock
         url: /images/Screen Shot 2025-11-03 at 14.28.55.png
         altText: Como atravessar um rio sem margem
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Screen Shot 2025-10-25 at 14.10.26.png
-        altText: Travessia
         elementId: ''
     elementId: ''
     motion: static
