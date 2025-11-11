@@ -186,7 +186,7 @@ sections:
         subtitle: 'R$ 820,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/kimo beterraba.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
