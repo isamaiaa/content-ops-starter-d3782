@@ -363,7 +363,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ilha da Madeira
+      text: Determinado instante
       color: text-dark
       styles:
         self:
