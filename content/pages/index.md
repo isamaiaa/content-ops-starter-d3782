@@ -64,10 +64,8 @@ sections:
       - type: FeaturedItem
         title: Kimono Comprido
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Acabamento embutido com botões e fendas laterias
         actions: []
         colors: bg-neutral-fg-dark
         styles:
