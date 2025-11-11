@@ -2,11 +2,83 @@
 type: PageLayout
 title: Pinturas
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Isadora Maia - Artista visual
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >
+      Cada pintura nasce como um território de passagem.
+
+      Mais do que representar o mundo, elas o escutam. As camadas se sobrepõem
+      como tempos que coexistem: o visível e o invisível, o que já foi e o que
+      ainda é. Em cada pintura, o acaso se revela e o silêncio se transforma em
+      cor.
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: ImageGallerySection
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0000_Layer 1.jpg
+        url: /images/Screen Shot 2025-10-25 at 14.10.26.png
+        altText: Travessia
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Travessia
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Acrílico sobre tela 120 x 95 cm| R$ 6.500,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Screen Shot 2025-11-03 at 14.28.42.png
         altText: Aqui e lá
         elementId: ''
     elementId: ''
@@ -54,7 +126,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0003_Layer 6.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.29.50.png
         altText: O TEMPO É O REFLEXO DE NÓS MESMOS
         elementId: ''
     elementId: ''
@@ -83,7 +155,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Acrílico sobre tela 157 x 115 cm | R$ 4.500,00'
+    subtitle: 'Acrílico sobre tela 45 x 30 cm | R$ 3.500,00'
     items: []
     actions: []
     variant: toggle-list
@@ -102,7 +174,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0001_Layer 6 copy.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.28.55.png
         altText: Como atravessar um rio sem margem
         elementId: ''
     elementId: ''
@@ -150,7 +222,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_7638_0002_Layer 4.jpg
+        url: /images/Screen Shot 2025-11-03 at 14.29.08.png
         altText: Ilha da Madeira
         elementId: ''
         styles:
@@ -204,6 +276,54 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Screen Shot 2025-11-03 at 14.29.43.png
+        altText: Tudo que já foi ainda é
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Tudo que já foi ainda é
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Acrílico sobre tela 86 x 55 cm | R$ 2.800,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -215,6 +335,54 @@ sections:
           - pl-20
           - pb-20
           - pr-20
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Screen Shot 2025-11-03 at 14.29.30.png
+        altText: Determinado Instante
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Ilha da Madeira
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Acrílico sobre tela 85 x 95 cm| R$ 4.300,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
 slug: pinturas
 isDraft: false
 seo:
