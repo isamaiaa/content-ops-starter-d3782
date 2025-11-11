@@ -259,35 +259,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/meukimô-216.png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-206 2.png
-        altText: Wellster logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
