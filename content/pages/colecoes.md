@@ -282,7 +282,7 @@ sections:
         subtitle: 'R$ 950,00'
         image:
           type: ImageBlock
-          url: /images/P1044721.png
+          url: /images/P1044710.png
           altText: Kimono Gabi Laranja
           elementId: ''
           styles:
