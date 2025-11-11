@@ -396,7 +396,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Screen Shot 2025-11-11 at 06.29.20.png
-        altText: Image alt text placeholder
+        altText: Musgo Verde
         elementId: ''
         styles:
           self:
