@@ -394,6 +394,13 @@ sections:
         url: /images/Screen Shot 2025-11-11 at 06.29.28.png
         altText: Nebulosa
         elementId: ''
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
