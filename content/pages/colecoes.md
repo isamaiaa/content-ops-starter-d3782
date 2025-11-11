@@ -114,7 +114,7 @@ sections:
         subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/calca ferrugem.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
