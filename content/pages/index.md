@@ -129,7 +129,7 @@ sections:
     actions:
       - type: Button
         label: Ver coleção completa
-        url: /
+        url: /colecoes
         icon: arrowRight
         iconPosition: right
         style: primary
