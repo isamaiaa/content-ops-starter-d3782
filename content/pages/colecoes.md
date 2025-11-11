@@ -138,7 +138,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/carrossel_0008_kimo musgo.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
