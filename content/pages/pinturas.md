@@ -395,7 +395,7 @@ sections:
         altText: Nebulosa
         elementId: ''
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Screen Shot 2025-11-11 at 06.29.20.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
