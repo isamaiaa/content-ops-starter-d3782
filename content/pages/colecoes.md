@@ -210,7 +210,7 @@ sections:
         subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/calca beterraba.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
