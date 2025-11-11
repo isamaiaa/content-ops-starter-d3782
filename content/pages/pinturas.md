@@ -339,7 +339,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/Screen Shot 2025-10-25 at 14.10.26.png
         altText: Rangle logo
         elementId: ''
     elementId: ''
