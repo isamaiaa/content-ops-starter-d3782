@@ -277,6 +277,150 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Gabi Laranja
+        subtitle: 'R$ 950,00'
+        image:
+          type: ImageBlock
+          url: /images/P1044710.png
+          altText: Kimono Gabi Laranja
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Calça Gabi Laranja
+        subtitle: 'R$ 580,00'
+        image:
+          type: ImageBlock
+          url: /images/P1044703.png
+          altText: Calça Gabi Laranja
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Bolas Amarelo
+        subtitle: 'R$ 820,00'
+        image:
+          type: ImageBlock
+          url: /images/P1044687.png
+          altText: Kimono Bolas Amarelo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Short Bolas Amarelo
+        subtitle: 'R$ 400,00'
+        image:
+          type: ImageBlock
+          url: /images/P1044671.png
+          altText: 'Short Bolas Amarelo (P, M, G)'
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Turquesa
+        subtitle: 'R$ 820,00'
+        image:
+          type: ImageBlock
+          url: /images/P1044771.png
+          altText: Kimono Turquesa
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Short Turquesa
+        subtitle: 'R$ 400,00'
+        image:
+          type: ImageBlock
+          url: /images/P1044746.png
+          altText: Short Turquesa
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
