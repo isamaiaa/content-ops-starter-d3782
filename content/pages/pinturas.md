@@ -340,7 +340,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Screen Shot 2025-10-25 at 14.10.26.png
-        altText: Rangle logo
+        altText: Travessia
         elementId: ''
     elementId: ''
     motion: static
