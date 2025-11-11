@@ -58,84 +58,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/capa esc2.png
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/carrossel_0002_conj musgo.jpg
-        altText: Musgo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/carrossel_0008_kimo musgo.jpg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/carrossel_0003_calca musgo.jpg
-        altText: Calça Musgo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/carrossel_0009_kimo cos musgo.jpg
-        altText: Telus logo
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/bolas_0002_Layer 3.jpg
-        altText: Conjunto Bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0004_Layer 1.jpg
-        altText: Conjunto Bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0001_Layer 4.png
-        altText: Calça bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0003_Layer 2.jpg
-        altText: Lenço bolas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bolas_0000_Layer 5.jpg
-        altText: Kimo comprido bolas
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -220,6 +142,84 @@ sections:
           - pt-16
           - pl-3
           - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/carrossel_0002_conj musgo.jpg
+        altText: Musgo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/carrossel_0008_kimo musgo.jpg
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/carrossel_0003_calca musgo.jpg
+        altText: Calça Musgo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/carrossel_0009_kimo cos musgo.jpg
+        altText: Telus logo
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/bolas_0002_Layer 3.jpg
+        altText: Conjunto Bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0004_Layer 1.jpg
+        altText: Conjunto Bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0001_Layer 4.png
+        altText: Calça bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0003_Layer 2.jpg
+        altText: Lenço bolas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bolas_0000_Layer 5.jpg
+        altText: Kimo comprido bolas
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
