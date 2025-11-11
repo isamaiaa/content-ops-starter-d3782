@@ -402,7 +402,7 @@ sections:
         subtitle: 'R$ 400,000'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/P1044746.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
