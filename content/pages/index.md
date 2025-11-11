@@ -128,7 +128,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: Ver coleção completa
         url: /
         icon: arrowRight
         iconPosition: right
