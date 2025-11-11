@@ -85,6 +85,126 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Comprido Ferrugem
+        subtitle: 'R$ 950,00'
+        image:
+          type: ImageBlock
+          url: /images/carrossel_0001_kimo ferrugem.jpg
+          altText: Kimono Ferrugem
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Calça Ferrugem
+        subtitle: 'R$ 580,00'
+        image:
+          type: ImageBlock
+          url: /images/calca ferrugem.png
+          altText: Calça Ferrugem
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Musgo
+        subtitle: 'R$ 820,00'
+        image:
+          type: ImageBlock
+          url: /images/carrossel_0008_kimo musgo.jpg
+          altText: Kimono Musgo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Calça Musgo
+        subtitle: 'R$ 580,00'
+        image:
+          type: ImageBlock
+          url: /images/calca musgo.png
+          altText: Calça Musgo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Beterraba
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
