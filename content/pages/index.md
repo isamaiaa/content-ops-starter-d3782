@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Kimono Comprido
+        title: Kimono
         subtitle: ''
         text: |
           Acabamento embutido com botões e fendas laterias
