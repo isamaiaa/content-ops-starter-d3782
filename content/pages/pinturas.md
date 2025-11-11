@@ -427,7 +427,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '40 x 30 cm | R$ 2.100,00'
+    subtitle: 'Impressão em papel 40 x 30 cm | R$ 2.100,00'
     items: []
     actions:
       - type: Button
