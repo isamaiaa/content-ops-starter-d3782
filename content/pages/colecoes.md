@@ -306,7 +306,7 @@ sections:
         subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/P1044703.png
           altText: Calça Gabi Laranja
           elementId: ''
           styles:
