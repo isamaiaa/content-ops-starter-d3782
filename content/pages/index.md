@@ -59,7 +59,7 @@ sections:
       opacity: 100
       url: /images/capa esc2.png
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: Nossos produtos
     items:
       - type: FeaturedItem
         title: Kimono
