@@ -403,7 +403,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/P1044746.png
-          altText: Faux Fur Throw
+          altText: Short Turquesa
           elementId: ''
           styles:
             self:
