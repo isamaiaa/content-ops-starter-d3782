@@ -235,7 +235,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/geo amarelo_0004_P1044651.jpg
-          altText: Faux Fur Throw
+          altText: Kimono Geométrico Amarelo
           elementId: ''
           styles:
             self:
