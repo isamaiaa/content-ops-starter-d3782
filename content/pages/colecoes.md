@@ -139,7 +139,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/carrossel_0008_kimo musgo.jpg
-          altText: Faux Fur Throw
+          altText: Kimono Musgo
           elementId: ''
           styles:
             self:
