@@ -183,11 +183,83 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Kimono Beterraba
-        subtitle: $ 88 – $ 176
+        subtitle: 'R$ 820,00'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
+          url: /images/kimo beterraba.png
+          altText: Kimono Beterraba
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Calça Beterraba
+        subtitle: 'R$ 580,00'
+        image:
+          type: ImageBlock
+          url: /images/calca beterraba.png
+          altText: Calça Beterraba
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Geométrico Amarelo
+        subtitle: 'R$ 950,00'
+        image:
+          type: ImageBlock
+          url: /images/geo amarelo_0004_P1044651.jpg
+          altText: Kimono Geométrico Amarelo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Calça Geométrico Amarelo
+        subtitle: 'R$ 580,00'
+        image:
+          type: ImageBlock
+          url: /images/geo amarelo_0001_P1044664.jpg
+          altText: Calça Geométrico Amarelo
           elementId: ''
           styles:
             self:
