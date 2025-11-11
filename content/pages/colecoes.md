@@ -135,7 +135,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Kimono Musgo
-        subtitle: R$
+        subtitle: 'R$ 820,00'
         image:
           type: ImageBlock
           url: /images/carrossel_0008_kimo musgo.jpg
