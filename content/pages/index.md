@@ -140,6 +140,9 @@ sections:
       type: TitleBlock
       text: Nossos produtos
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: ImageGallerySection
     subtitle: ''
     images:
