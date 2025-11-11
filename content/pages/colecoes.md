@@ -115,7 +115,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/calca ferrugem.png
-          altText: Faux Fur Throw
+          altText: Calça Ferrugem
           elementId: ''
           styles:
             self:
