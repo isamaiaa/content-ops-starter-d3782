@@ -187,7 +187,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/kimo beterraba.png
-          altText: Faux Fur Throw
+          altText: Kimono Beterraba
           elementId: ''
           styles:
             self:
