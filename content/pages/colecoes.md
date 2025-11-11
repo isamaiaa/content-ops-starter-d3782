@@ -327,7 +327,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Kimono Bolas Amarelo
-        subtitle: 'R$ 820,'
+        subtitle: 'R$ 820,00'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
