@@ -163,7 +163,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/calca musgo.png
-          altText: Faux Fur Throw
+          altText: Calça Musgo
           elementId: ''
           styles:
             self:
