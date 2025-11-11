@@ -307,7 +307,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
+          altText: Calça Gabi Laranja
           elementId: ''
           styles:
             self:
