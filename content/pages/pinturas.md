@@ -387,7 +387,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/Screen Shot 2025-11-11 at 06.29.28.png
+        url: /images/Screen Shot 2025-11-11 at 06.29.14.png
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
