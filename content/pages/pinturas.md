@@ -30,8 +30,8 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Screen Shot 2025-11-03 at 14.28.42.png
-        altText: Aqui e lá
+        url: /images/Screen Shot 2025-10-25 at 14.10.26.png
+        altText: Travessia
         elementId: ''
     elementId: ''
     motion: static
@@ -55,8 +55,8 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Screen Shot 2025-10-25 at 14.10.26.png
-        altText: Travessia
+        url: /images/Screen Shot 2025-11-03 at 14.28.42.png
+        altText: Aqui e lá
         elementId: ''
     elementId: ''
     motion: static
