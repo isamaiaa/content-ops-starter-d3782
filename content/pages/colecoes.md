@@ -259,7 +259,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/geo amarelo_0001_P1044664.jpg
-          altText: Faux Fur Throw
+          altText: Calça Geométrico Amarelo
           elementId: ''
           styles:
             self:
