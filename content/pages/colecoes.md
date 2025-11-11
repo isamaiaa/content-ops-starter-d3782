@@ -111,7 +111,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Calça Ferrugem
-        subtitle: $ 88 – $ 176
+        subtitle: 'R$ 580,00'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
