@@ -86,7 +86,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Kimono Comprido Gabi
+        title: Kimono Comprido Ferrugem
         subtitle: 'R$ 950,00'
         image:
           type: ImageBlock
