@@ -399,7 +399,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Short Turquesa
-        subtitle: $ 88 – $ 176
+        subtitle: 'R$ 400,00'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
