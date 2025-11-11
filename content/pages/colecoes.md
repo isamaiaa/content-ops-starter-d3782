@@ -283,7 +283,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/P1044721.png
-          altText: Faux Fur Throw
+          altText: Kimono Gabi Laranja
           elementId: ''
           styles:
             self:
