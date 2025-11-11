@@ -379,7 +379,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/P1044771.png
-          altText: Faux Fur Throw
+          altText: Kimono Turquesa
           elementId: ''
           styles:
             self:
