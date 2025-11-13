@@ -64,8 +64,12 @@ sections:
       - type: FeaturedItem
         title: Kimono
         subtitle: ''
-        text: |
-          Acabamento embutido com botões e fendas laterias
+        text: >
+          Disponíveis nas versões midi e longo, os kimonos possuem costura
+          embutida com botões e fendas laterais e acabamento delicado,
+          garantindo elegância e fluidez. Atemporais e unissex, foram pensados
+          para vestir todos os corpos: peças que atravessam o tempo e o espaço
+          com naturalidade.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -82,10 +86,11 @@ sections:
       - type: FeaturedItem
         title: Calça
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          De modelagem ampla e tamanho único, possuem ajuste na cintura que se
+          adapta a diferentes corpos. São confortáveis, versáteis e
+          sofisticadas, perfeitas para compor com o kimono ou usar de forma
+          independente.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -102,10 +107,29 @@ sections:
       - type: FeaturedItem
         title: Lenços
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Mais do que acessórios, os lenços são fragmentos de arte impressos em
+          tecido — podem ser usados no corpo, na cabeça, ou como objeto de
+          decoração.
+
+
+          Disponíveis nos tamanhos:
+
+
+          *   **P (50x50 cm)** – mini lenço, um toque de cor.
+
+
+          *   **M (60x60 cm)** – leve e delicado.
+
+
+          *   **G (90x90 cm)** – o clássico da marca.
+
+
+          *   **Panô (140x140 cm)** – painel têxtil para vestir ou expor.
+
+
+          *   **Super Canga (200x140 cm)** – liberdade em forma de tecido.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -119,7 +143,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Ver coleção completa
+        label: Coleção completa
         url: /colecoes
         icon: arrowRight
         iconPosition: right
