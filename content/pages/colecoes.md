@@ -427,7 +427,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/roxinho kim2.png
-          altText: Faux Fur Throw
+          altText: Kimono Roxinho
           elementId: ''
           styles:
             self:
