@@ -58,6 +58,115 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/capa esc2.png
+  - type: FeaturedItemsSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Kimono
+        subtitle: ''
+        text: >
+          Disponíveis nas versões midi e longo, os kimonos possuem costura
+          embutida com botões e fendas laterais e acabamento delicado,
+          garantindo elegância e fluidez. Atemporais e unissex, foram pensados
+          para vestir todos os corpos: peças que atravessam o tempo e o espaço
+          com naturalidade.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Calça
+        subtitle: Marketing
+        text: >
+          De modelagem ampla e tamanho único, possuem ajuste na cintura que se
+          adapta a diferentes corpos. São confortáveis, versáteis e
+          sofisticadas, perfeitas para compor com o kimono ou usar de forma
+          independente.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Lenços
+        subtitle: Engineering
+        text: >+
+          Mais do que acessórios, os lenços são fragmentos de arte impressos em
+          tecido — podem ser usados no corpo, na cabeça, ou como objeto de
+          decoração.
+
+
+          Disponíveis nos tamanhos:
+
+
+          *   **P (50x50 cm)** – mini lenço, um toque de cor.
+
+
+          *   **M (60x60 cm)** – leve e delicado.
+
+
+          *   **G (90x90 cm)** – o clássico da marca.
+
+
+          *   **Panô (140x140 cm)** – painel têxtil para vestir ou expor.
+
+
+          *   **Super Canga (200x140 cm)** – liberdade em forma de tecido.
+
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: Coleção completa
+        url: /colecoes
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: Nossos produtos
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -259,35 +368,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/meukimô-216.png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/meukimô-206 2.png
-        altText: Wellster logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
