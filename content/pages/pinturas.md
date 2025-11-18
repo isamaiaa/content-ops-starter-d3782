@@ -512,7 +512,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: 'Impressão em papel Fine Art 40 x 30 cm | R$ 2.100,00'
     items:
       - type: FeaturedItem
         title: Account Executive
