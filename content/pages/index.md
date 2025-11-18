@@ -85,7 +85,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Calça
-        subtitle: Marketing
+        subtitle: ''
         text: >
           De modelagem ampla e tamanho único, possuem ajuste na cintura que se
           adapta a diferentes corpos. São confortáveis, versáteis e
