@@ -387,7 +387,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/nebulosa.png
+        url: /images/nebulosa fundo.png
         altText: Nebulosa
         elementId: ''
     elementId: ''
