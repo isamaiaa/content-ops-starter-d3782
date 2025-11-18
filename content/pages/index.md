@@ -85,7 +85,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Calça
-        subtitle: Marketing
+        subtitle: ''
         text: >
           De modelagem ampla e tamanho único, possuem ajuste na cintura que se
           adapta a diferentes corpos. São confortáveis, versáteis e
@@ -106,7 +106,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Lenços
-        subtitle: Engineering
+        subtitle: ''
         text: >+
           Mais do que acessórios, os lenços são fragmentos de arte impressos em
           tecido — podem ser usados no corpo, na cabeça, ou como objeto de
