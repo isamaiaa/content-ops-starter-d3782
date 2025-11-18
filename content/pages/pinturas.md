@@ -436,7 +436,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/nebulosa.png
-        altText: Wellster logo
+        altText: Nebulosa
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
