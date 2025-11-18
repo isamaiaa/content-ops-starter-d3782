@@ -435,7 +435,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/ferrugem.png
+        url: /images/ferrugem fundo.png
         altText: Ferrugem
         elementId: ''
     elementId: ''
