@@ -486,10 +486,6 @@ sections:
         url: /images/musgo fundo.png
         altText: Musgo
         elementId: ''
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
