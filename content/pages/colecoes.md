@@ -463,9 +463,9 @@ slug: colecoes
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Pinturas Disponíveis
+  metaDescription: Pinturas por Isadora Maia
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IMG_7386.jpg
   metaTags: []
 ---
