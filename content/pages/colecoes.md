@@ -421,6 +421,30 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+      - type: FeaturedItem
+        title: Kimono Roxinho
+        subtitle: 'R$ 820,00'
+        image:
+          type: ImageBlock
+          url: /images/roxinho kim2.png
+          altText: Kimono Roxinho
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
