@@ -431,6 +431,29 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Ferrugem
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Impressão em papel Fine Art 40 x 30 cm | R$ 2.100,00'
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -453,29 +476,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Ferrugem
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: 'Impressão em papel Fine Art 40 x 30 cm | R$ 2.100,00'
-    items: []
-    actions: []
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
