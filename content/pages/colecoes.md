@@ -466,6 +466,6 @@ seo:
   metaTitle: Pinturas Disponíveis
   metaDescription: Pinturas por Isadora Maia
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IMG_7386.jpg
   metaTags: []
 ---
