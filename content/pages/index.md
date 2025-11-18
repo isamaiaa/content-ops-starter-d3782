@@ -106,7 +106,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Lenços
-        subtitle: Engineering
+        subtitle: ''
         text: >+
           Mais do que acessórios, os lenços são fragmentos de arte impressos em
           tecido — podem ser usados no corpo, na cabeça, ou como objeto de
