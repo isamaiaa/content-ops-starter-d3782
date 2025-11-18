@@ -484,7 +484,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/musgo fundo.png
-        altText: Empathy logo
+        altText: Musgo
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
