@@ -464,7 +464,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Pinturas Disponíveis
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Pinturas por Isadora Maia
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
