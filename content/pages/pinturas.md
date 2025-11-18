@@ -466,13 +466,7 @@ sections:
           textAlign: center
     subtitle: 'Impressão em papel Fine Art 40 x 30 cm | R$ 2.100,00'
     items: []
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
