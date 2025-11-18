@@ -438,10 +438,6 @@ sections:
         url: /images/nebulosa.png
         altText: Nebulosa
         elementId: ''
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
