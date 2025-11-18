@@ -490,10 +490,6 @@ sections:
         url: /images/vise-logo.svg
         altText: Vise logo
         elementId: ''
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
