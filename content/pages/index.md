@@ -143,7 +143,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Coleção completa
+        label: Veja todos os produtos
         url: /colecoes
         icon: arrowRight
         iconPosition: right
