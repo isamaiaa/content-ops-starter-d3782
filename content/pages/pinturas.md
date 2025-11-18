@@ -391,10 +391,6 @@ sections:
         altText: Ferrugem
         elementId: ''
       - type: ImageBlock
-        url: /images/Screen Shot 2025-11-11 at 06.29.28.png
-        altText: Nebulosa
-        elementId: ''
-      - type: ImageBlock
         url: /images/Screen Shot 2025-11-11 at 06.29.20.png
         altText: Musgo Verde
         elementId: ''
